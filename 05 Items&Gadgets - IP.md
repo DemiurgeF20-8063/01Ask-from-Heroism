@@ -74,7 +74,7 @@ https://app.notion.com/p/386e9d50bf1680f8928af16685acb5af?v=386e9d50bf16804095c3
 
 ---
 
-# Swingtir
+# Swingschus
 
 ***Comments***: Used by maintenance robots, it's a winch that attaches to special green anchors, allowing them to swing and cross chasms and large pits. It's not used by organics due to the risk of injury, but Witya can use it safely thanks to its HICA (Hightly Integrated Combat Adaptation) modification.
 
