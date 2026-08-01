@@ -1,5 +1,3 @@
-https://app.notion.com/p/383e9d50bf168072a377fda6f0828385?v=383e9d50bf16805cb61e000c5b4b8084&source=copy_link
-
 # Hornet Toad
 
 ***Mission***: 01 Inspect the crash site
