@@ -1,7 +1,3 @@
-[[Ask from Heroism (AfH) Intellectual Property (IP)]]
-https://app.notion.com/p/386e9d50bf1680f8928af16685acb5af?v=386e9d50bf16804095c3000c7b2a5f65&source=copy_link
-
----
 # Aqua-Thrusters
 
 ***Comments***: An upgrade for the Fan - pack that allows you to fight and move underwater at the same time.
