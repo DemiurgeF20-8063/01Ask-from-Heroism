@@ -491,7 +491,7 @@
 
 # Bitter JR
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: Small
 ***Type***: Melee
@@ -501,7 +501,7 @@
 
 # Mr. Bitter
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: Medium
 ***Type***: Various
@@ -511,7 +511,7 @@
 
 # Wonderer Fabrica
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: Large
 ***Type***: None
@@ -522,7 +522,7 @@
 
 # Mrs. Bitter
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: BOSS
 ***Type***: Various
@@ -566,7 +566,7 @@
 
 # Macedon T-2
 
-***Mission***: 12 Assault Lucin industries, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 23 Harmony Walkthrough
+***Mission***: 12 Assault Quand industries, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 23 Harmony Walkthrough
 ***Location***: Costmesa Crater, GRO, Opi-nioh city, Snapped Harmony
 ***Weight***: Dropship
 ***Type***: Mid Distance
