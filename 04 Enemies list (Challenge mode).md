@@ -82,7 +82,7 @@
 
 # Warbot Targeter
 
-***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 17 Rescue Chazev Nimsov, 22 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Grable Warship, Kownool Plateau, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -102,7 +102,7 @@
 
 # Grable Comdiv
 
-***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 22 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, GRO, Kownool Plateau, Logging site, Opi-nioh city, Pretory City
 ***Weight***: Large
 ***Type***: Various
@@ -112,7 +112,7 @@
 
 # Walkermine
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt), 22 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, Costmesa Crater, GRO, GSDM, Kownool Plateau, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Small
 ***Type***: Melee
@@ -204,7 +204,7 @@
 
 # LCVP-86 Hovercraft (empty)
 
-***Mission***: 03 Destroy the battleships, 24 Harmony Walkthrough
+***Mission***: 03 Destroy the battleships, 23 Harmony Walkthrough
 ***Location***: Bohemi Skies, Pretory Skies, Wealth orbit
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -215,7 +215,7 @@
 
 # YK - 11 Hydrofighter
 
-***Mission***: 03 Destroy the battleships, 24 Harmony Walkthrough
+***Mission***: 03 Destroy the battleships, 23 Harmony Walkthrough
 ***Location***: Bohemi Skies, Pretory Skies, Wealth orbit
 ***Weight***: Starfighter
 ***Type***: Far Distance
@@ -225,7 +225,7 @@
 
 # Grable Dropship
 
-***Mission***: 03 Destroy the battleships, 24 Harmony Walkthrough
+***Mission***: 03 Destroy the battleships, 23 Harmony Walkthrough
 ***Location***: Pretory Skies, Wealth orbit
 ***Weight***: Spaceship
 ***Type***: Far Distance
@@ -235,7 +235,7 @@
 
 # Macedon T-2
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 23 Harmony Walkthrough
 ***Location***: Costmesa Crater, GRO, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -256,7 +256,7 @@
 
 # Warbot Knocker
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Medium
 ***Type***: Low Distance
@@ -267,7 +267,7 @@
 
 # Warbot Redirecter
 
-***Mission***: 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Logging site, Opi-nioh city, Snapped Harmony
 ***Weight***: Large
 ***Type***: Various
@@ -278,7 +278,7 @@
 
 # LCVP-86 Hovercraft
 
-***Mission***: 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough
+***Mission***: 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 23 Harmony Walkthrough
 ***Location***: Logging site, Opi-nioh city, Snapped Harmony
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -407,7 +407,7 @@
 
 # Grable Grenader
 
-***Mission***: 09 Investigate GSDM, 13 Clear out the GRO, 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Bohemi Resort, GRO, GSDM
 ***Weight***: Medium
 ***Type***: Low Distance
@@ -427,7 +427,7 @@
 
 # Grable Sniper
 
-***Mission***: 09 Investigate GSDM, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 20 - 21 Redistribute the oceans (opt), 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, GRO, GSDM
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -598,7 +598,7 @@
 
 # Overseer Turret
 
-***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 23 Gut the Acatadop
 ***Location***: Acatadop, Costmesa Crater, GRO
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -609,7 +609,7 @@
 
 # Tracker Turret
 
-***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, Costmesa Crater, GRO
 ***Weight***: Medium
 ***Type***: Mid Distance
@@ -620,7 +620,7 @@
 
 # Enforcer Turret
 
-***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, Costmesa Crater, GRO
 ***Weight***: Large
 ***Type***: Low Distance
@@ -673,7 +673,7 @@
 
 # Grable elite
 
-***Mission***: 13 Clear out the GRO, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 13 Clear out the GRO, 20 - 21 Redistribute the oceans (opt), 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, GRO
 ***Weight***: Medium
 ***Type***: Various
@@ -694,7 +694,7 @@
 
 # Pursue Turret
 
-***Mission***: 13 Clear out the GRO, 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, GRO
 ***Weight***: Medium
 ***Type***: Mid Distance
@@ -736,7 +736,7 @@
 
 # Sharpsphere
 
-***Mission***: 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt), 22 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, Opi-nioh city, Snapped Harmony
 ***Weight***: Swarm
 ***Type***: Melee
@@ -747,7 +747,7 @@
 
 # Warbot Sturmer
 
-***Mission***: 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 17 Rescue Chazev Nimsov, 22 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Opi-nioh city, Snapped Harmony
 ***Weight***: Medium
 ***Type***: Mid Distance
@@ -758,7 +758,7 @@
 
 # Warbot Missiler
 
-***Mission***: 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 17 Rescue Chazev Nimsov, 22 Sneak in Acatadop, 23 Harmony Walkthrough, 24 Gut the Acatadop
 ***Location***: Acatadop, Opi-nioh city, Snapped Harmony
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -790,7 +790,7 @@
 
 # YK - 16 Hydrofighter
 
-***Mission***: 19 - 21 Stop Waterthievs (opt), 24 Harmony Walkthrough
+***Mission***: 19 - 21 Stop Waterthievs (opt), 23 Harmony Walkthrough
 ***Location***: Bohemi Skies, Wealth orbit
 ***Weight***: Starfighter
 ***Type***: Various
@@ -812,7 +812,7 @@
 
 # Carniherring
 
-***Mission***: 10 - 21 Meet Sellof Sterces, 20 - 22 Redistribute the oceans (opt)
+***Mission***: 10 - 21 Meet Sellof Sterces, 20 - 21 Redistribute the oceans (opt)
 ***Location***: Bohemi Resort, Port of Oden
 ***Weight***: Swarm
 ***Type***: Melee
@@ -832,7 +832,7 @@
 
 # Grable Juggernaut
 
-***Mission***: 25 Gut the Acatadop
+***Mission***: 24 Gut the Acatadop
 ***Location***: Acatadop
 ***Weight***: Large
 ***Type***: Various
@@ -843,7 +843,7 @@
 
 # LCVP-88 Hovercraft (empty)
 
-***Mission***: 24 Harmony Walkthrough
+***Mission***: 23 Harmony Walkthrough
 ***Location***: Wealth orbit
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -854,7 +854,7 @@
 
 # Grable Warship
 
-***Mission***: 24 Harmony Walkthrough
+***Mission***: 23 Harmony Walkthrough
 ***Location***: Wealth orbit
 ***Weight***: Spaceship
 ***Type***: Various
@@ -864,7 +864,7 @@
 
 # LCVP-88 Hovercraft
 
-***Mission***: 24 Harmony Walkthrough
+***Mission***: 23 Harmony Walkthrough
 ***Location***: Snapped Harmony
 ***Weight***: Dropship
 ***Type***: Mid Distance
