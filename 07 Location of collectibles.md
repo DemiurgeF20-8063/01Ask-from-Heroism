@@ -1,4 +1,5 @@
 # Location of collectibles
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
 
 ## Nirgenium Shards:
 
@@ -73,3 +74,6 @@ This collectible is non-renewable and is needed to unlock cheats, skins, and gam
 **23 Harmony Walkthrough. Location: Snapped Harmony.** The bolt will be located on a tall tower. **18th.** Another one will be located on a comet in uncharted space in dimension 2A1-66-115, which can be reached by hitting one of the Resonant Charoites. **19th.**
 
 **24 24 Gut the Acatadop. Location: Acatadop.** Witya's ship will dock with the hull itself. If Vitya exits Asparp and walks along the hull, bypassing the transparent ceiling behind which the Unbinil Bolt is hidden, he will be able to obtain it. **20th.**
+
+---
+CC-BY-SA 4.0 + Custom IP Restrictions
