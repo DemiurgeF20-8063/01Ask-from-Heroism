@@ -69,7 +69,7 @@
 # Woodcutter Axe
 
 ***Game mod:*** Normal
-***Mission:*** 05 - 22 Logging Log (opt)
+***Mission:*** 05 - 21 Logging Log (opt)
 ***Vendor:*** Quest gift
 ***Price:*** Quest
 ***Weapon type T1:*** Launcher
@@ -137,7 +137,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # Sorbeo Blaster
 
 ***Game mod:*** Normal
-***Mission:*** 10 - 22 Meet Sellof Sterces
+***Mission:*** 10 - 21 Meet Sellof Sterces
 ***Vendor:*** Sellof Sterces
 ***Price:*** 10000
 ***Weapon type T1:*** Vortex
@@ -172,7 +172,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # Drone Launcher
 
 ***Game mod:*** Normal
-***Mission:*** 16 - 22 Obtain 60 brains (opt)
+***Mission:*** 16 - 21 Obtain 60 brains (opt)
 ***Vendor:*** Crutch Brain Scientist
 ***Price:*** Quest
 ***Weapon type T1:*** Launcher
@@ -223,7 +223,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # Barbeque maker
 
 ***Game mod:*** Normal
-***Mission:*** 18-22 Become silver Hoverscater
+***Mission:*** 18-21 Become silver Hoverscater
 ***Vendor:*** Gismotron
 ***Price:*** 9200
 ***Weapon type T1:*** Flamethrower
@@ -274,7 +274,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # Voxelizer (Challenge)
 
 ***Game mod:*** Challenge
-***Mission:*** 10 - 22 Meet Sellof Sterces
+***Mission:*** 10 - 21 Meet Sellof Sterces
 ***Vendor:*** Sellof Sterces
 ***Price:*** Not Exist
 ***Weapon type T1:*** Not Exist
