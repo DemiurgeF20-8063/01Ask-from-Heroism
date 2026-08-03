@@ -1,3 +1,6 @@
+# Items&gadgets list
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 # Aqua-Thrusters
 
 ***Comments***: An upgrade for the Fan - pack that allows you to fight and move underwater at the same time.
@@ -93,4 +96,4 @@
 ***Comments***: A rare, collectible item.
 
 ---
-Copyright (c) 2026 DemiurgeF20.8063. All rights reserved.
+CC-BY-SA 4.0 + Custom IP Restrictions
