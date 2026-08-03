@@ -240,7 +240,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # Seeder
 
 ***Game mod:*** Normal
-***Mission:*** 21 - 22 Become gold Hoverscater
+***Mission:*** 21 - 21 Become gold Hoverscater
 ***Vendor:*** Gismotron
 ***Price:*** 11500
 ***Weapon type T1:*** Launcher
@@ -257,7 +257,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # D.Y.N.O.
 
 ***Game mod:*** Normal
-***Mission:*** 25 Gut the Acatadop
+***Mission:*** 24 Gut the Acatadop
 ***Vendor:*** Gerard Postrunas
 ***Price:*** Quest
 ***Weapon type T1:*** Laser Ray
@@ -306,7 +306,7 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 # Tesla Charger (Challenge)
 
 ***Game mod:*** Challenge
-***Mission:*** 18-22 Become silver Hoverscater
+***Mission:*** 18-21 Become silver Hoverscater
 ***Vendor:*** Gismotron
 ***Price:*** Not Exist
 ***Weapon type T1:*** Not Exist
