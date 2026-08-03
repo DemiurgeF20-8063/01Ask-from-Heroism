@@ -31,7 +31,7 @@
 
 # Flinger
 
-***Mission***: 01 Inspect the crash site, 05 - 22 Logging Log (opt), 06 Find Reism Headroof, 10 - 22 Meet Sellof Sterces, 17 Rescue Chazev Nimsov, 20 - 22 Redistribute the oceans (opt)
+***Mission***: 01 Inspect the crash site, 05 - 21 Logging Log (opt), 06 Find Reism Headroof, 10 - 21 Meet Sellof Sterces, 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt)
 ***Location***: Bohemi Resort, Inculand, Kownool Plateau, Logging site, Opi-nioh city, Port of Oden
 ***Weight***: Bird
 ***Type***: Melee
@@ -62,7 +62,7 @@
 
 # Warbot Shooter
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt)
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt)
 ***Location***: Grable Warship, Logging site, Pretory City
 ***Weight***: Medium
 ***Type***: Mid Distance
@@ -72,7 +72,7 @@
 
 # Warbot Catapulter
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM
 ***Location***: Grable Warship, Logging site, Pretory City
 ***Weight***: Medium
 ***Type***: Low Distance
@@ -82,7 +82,7 @@
 
 # Warbot Targeter
 
-***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM, 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
 ***Location***: Acatadop, Grable Warship, Kownool Plateau, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -92,7 +92,7 @@
 
 # Warbot Tolerater
 
-***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM
+***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM
 ***Location***: Grable Warship, Kownool Plateau, Logging site, Pretory City
 ***Weight***: Large
 ***Type***: None
@@ -102,7 +102,7 @@
 
 # Grable Comdiv
 
-***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
 ***Location***: Acatadop, GRO, Kownool Plateau, Logging site, Opi-nioh city, Pretory City
 ***Weight***: Large
 ***Type***: Various
@@ -112,7 +112,7 @@
 
 # Walkermine
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 20 - 22 Redistribute the oceans (opt), 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, Costmesa Crater, GRO, GSDM, Kownool Plateau, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Small
 ***Type***: Melee
@@ -122,7 +122,7 @@
 
 # Sharpball
 
-***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov
+***Mission***: 01 Inspect the crash site, 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov
 ***Location***: Costmesa Crater, GRO, GSDM, Kownool Plateau, Logging site, Opi-nioh city, Pretory City
 ***Weight***: Fly
 ***Type***: Melee
@@ -235,7 +235,7 @@
 
 # Macedon T-2
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 09 Investigate GSDM, 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough
 ***Location***: Costmesa Crater, GRO, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -246,7 +246,7 @@
 
 # Wood truck
 
-***Mission***: 05 - 22 Logging Log (opt)
+***Mission***: 05 - 21 Logging Log (opt)
 ***Location***: Logging site
 ***Weight***: Dropship
 ***Type***: None
@@ -256,7 +256,7 @@
 
 # Warbot Knocker
 
-***Mission***: 04 Assist Tonata Rangers, 05 - 22 Logging Log (opt), 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 04 Assist Tonata Rangers, 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
 ***Location***: Acatadop, Logging site, Opi-nioh city, Pretory City, Snapped Harmony
 ***Weight***: Medium
 ***Type***: Low Distance
@@ -267,7 +267,7 @@
 
 # Warbot Redirecter
 
-***Mission***: 05 - 22 Logging Log (opt), 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough, 25 Gut the Acatadop
 ***Location***: Acatadop, Logging site, Opi-nioh city, Snapped Harmony
 ***Weight***: Large
 ***Type***: Various
@@ -278,7 +278,7 @@
 
 # LCVP-86 Hovercraft
 
-***Mission***: 05 - 22 Logging Log (opt), 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough
+***Mission***: 05 - 21 Logging Log (opt), 17 Rescue Chazev Nimsov, 24 Harmony Walkthrough
 ***Location***: Logging site, Opi-nioh city, Snapped Harmony
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -375,7 +375,7 @@
 
 # Systematic Biter
 
-***Mission***: 09 Investigate GSDM, 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Mission***: 09 Investigate GSDM, 14 - 21 Obtain 10 brains, 15 - 21 Obtain 23 brains (opt), 16 - 21 Obtain 60 brains (opt)
 ***Location***: Brainrot lava, GSDM
 ***Weight***: Medium
 ***Type***: Melee
@@ -386,7 +386,7 @@
 
 # Systematic Spitter
 
-***Mission***: 09 Investigate GSDM, 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Mission***: 09 Investigate GSDM, 14 - 21 Obtain 10 brains, 15 - 21 Obtain 23 brains (opt), 16 - 21 Obtain 60 brains (opt)
 ***Location***: Brainrot lava, GSDM
 ***Weight***: Small
 ***Type***: Mid Distance
@@ -396,7 +396,7 @@
 
 # Systematic Toad
 
-***Mission***: 09 Investigate GSDM, 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Mission***: 09 Investigate GSDM, 14 - 21 Obtain 10 brains, 15 - 21 Obtain 23 brains (opt), 16 - 21 Obtain 60 brains (opt)
 ***Location***: Brainrot lava, GSDM
 ***Weight***: Swarm
 ***Type***: Melee
@@ -427,7 +427,7 @@
 
 # Grable Sniper
 
-***Mission***: 09 Investigate GSDM, 20 - 22 Redistribute the oceans (opt), 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 25 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, GRO, GSDM
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -447,7 +447,7 @@
 
 # Big Slimenoid
 
-***Mission***: 10 - 22 Meet Sellof Sterces
+***Mission***: 10 - 21 Meet Sellof Sterces
 ***Location***: Oden town & Seewer
 ***Weight***: Large
 ***Type***: Mid Distance
@@ -458,7 +458,7 @@
 
 # Med Slimenoid
 
-***Mission***: 10 - 22 Meet Sellof Sterces
+***Mission***: 10 - 21 Meet Sellof Sterces
 ***Location***: Oden town & Seewer
 ***Weight***: Medium
 ***Type***: Low Distance
@@ -469,7 +469,7 @@
 
 # Small Slimenoid
 
-***Mission***: 10 - 22 Meet Sellof Sterces
+***Mission***: 10 - 21 Meet Sellof Sterces
 ***Location***: Oden town & Seewer
 ***Weight***: Small
 ***Type***: Melee
@@ -479,7 +479,7 @@
 
 # Cheilopogo
 
-***Mission***: 10 - 22 Meet Sellof Sterces
+***Mission***: 10 - 21 Meet Sellof Sterces
 ***Location***: Port of Oden
 ***Weight***: Large
 ***Type***: Melee
@@ -490,7 +490,7 @@
 
 # Deck rat
 
-***Mission***: 10 - 22 Meet Sellof Sterces
+***Mission***: 10 - 21 Meet Sellof Sterces
 ***Location***: Port of Oden
 ***Weight***: Swarm
 ***Type***: Melee
@@ -500,7 +500,7 @@
 
 # Sharpscrap
 
-***Mission***: 10 - 22 Overhelm Pirates
+***Mission***: 10 - 21 Overhelm Pirates
 ***Location***: Mammonia orbit
 ***Weight***: Starfighter
 ***Type***: Mid Distance
@@ -511,7 +511,7 @@
 
 # Toughtscrap
 
-***Mission***: 10 - 22 Overhelm Pirates
+***Mission***: 10 - 21 Overhelm Pirates
 ***Location***: Mammonia orbit
 ***Weight***: Dropship
 ***Type***: Low Distance
@@ -522,7 +522,7 @@
 
 # Galeoscrap
 
-***Mission***: 10 - 22 Overhelm Pirates
+***Mission***: 10 - 21 Overhelm Pirates
 ***Location***: Mammonia orbit
 ***Weight***: Spaceship
 ***Type***: Various
@@ -533,7 +533,7 @@
 
 # Snowalker
 
-***Mission***: 11 - 22 Break in Maburgtum
+***Mission***: 11 - 21 Break in Maburgtum
 ***Location***: Maburgtum
 ***Weight***: Medium
 ***Type***: Various
@@ -544,7 +544,7 @@
 
 # Fugushark
 
-***Mission***: 11 - 22 Break in Maburgtum
+***Mission***: 11 - 21 Break in Maburgtum
 ***Location***: Maburgtum
 ***Weight***: Medium
 ***Type***: Melee
@@ -554,7 +554,7 @@
 
 # Uranium Crab
 
-***Mission***: 11 - 22 Break in Maburgtum
+***Mission***: 11 - 21 Break in Maburgtum
 ***Location***: Maburgtum
 ***Weight***: Swarm
 ***Type***: Melee
@@ -565,7 +565,7 @@
 
 # Frosty Python
 
-***Mission***: 11 - 22 Break in Maburgtum
+***Mission***: 11 - 21 Break in Maburgtum
 ***Location***: Maburgtum
 ***Weight***: Medium
 ***Type***: Low Distance
@@ -576,7 +576,7 @@
 
 # Mammoniac Drinker
 
-***Mission***: 11 - 22 Break in Maburgtum
+***Mission***: 11 - 21 Break in Maburgtum
 ***Location***: Maburgtum
 ***Weight***: Large
 ***Type***: Melee
@@ -587,7 +587,7 @@
 
 # Mammoniac Wampire
 
-***Mission***: 11 - 22 Break in Maburgtum
+***Mission***: 11 - 21 Break in Maburgtum
 ***Location***: Maburgtum
 ***Weight***: mini-Boss
 ***Type***: Various
@@ -673,7 +673,7 @@
 
 # Grable elite
 
-***Mission***: 13 Clear out the GRO, 20 - 22 Redistribute the oceans (opt), 23 Sneak in Acatadop, 25 Gut the Acatadop
+***Mission***: 13 Clear out the GRO, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 25 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, GRO
 ***Weight***: Medium
 ***Type***: Various
@@ -683,7 +683,7 @@
 
 # K-60 Warcopter
 
-***Mission***: 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 20 - 22 Redistribute the oceans (opt)
+***Mission***: 13 Clear out the GRO, 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt)
 ***Location***: Bohemi Resort, Brainrot lava, GRO
 ***Weight***: Heli
 ***Type***: Various
@@ -704,7 +704,7 @@
 
 # Brain Eater
 
-***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Mission***: 14 - 21 Obtain 10 brains, 15 - 21 Obtain 23 brains (opt), 16 - 21 Obtain 60 brains (opt)
 ***Location***: Brainrot lava
 ***Weight***: Heli
 ***Type***: Various
@@ -714,7 +714,7 @@
 
 # Brain Nest
 
-***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Mission***: 14 - 21 Obtain 10 brains, 15 - 21 Obtain 23 brains (opt), 16 - 21 Obtain 60 brains (opt)
 ***Location***: Brainrot lava
 ***Weight***: Large
 ***Type***: None
@@ -725,7 +725,7 @@
 
 # Smartopus
 
-***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Mission***: 14 - 21 Obtain 10 brains, 15 - 21 Obtain 23 brains (opt), 16 - 21 Obtain 60 brains (opt)
 ***Location***: Brainrot lava
 ***Weight***: mini-Boss
 ***Type***: Various
@@ -736,7 +736,7 @@
 
 # Sharpsphere
 
-***Mission***: 17 Rescue Chazev Nimsov, 20 - 22 Redistribute the oceans (opt), 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
+***Mission***: 17 Rescue Chazev Nimsov, 20 - 21 Redistribute the oceans (opt), 23 Sneak in Acatadop, 24 Harmony Walkthrough, 25 Gut the Acatadop
 ***Location***: Acatadop, Bohemi Resort, Opi-nioh city, Snapped Harmony
 ***Weight***: Swarm
 ***Type***: Melee
@@ -779,7 +779,7 @@
 
 # Water Truck
 
-***Mission***: 19 -22 Stop Waterthievs (opt)
+***Mission***: 19 - 21 Stop Waterthievs (opt)
 ***Location***: Bohemi Skies
 ***Weight***: Dropship
 ***Type***: Mid Distance
@@ -790,7 +790,7 @@
 
 # YK - 16 Hydrofighter
 
-***Mission***: 19 -22 Stop Waterthievs (opt), 24 Harmony Walkthrough
+***Mission***: 19 - 21 Stop Waterthievs (opt), 24 Harmony Walkthrough
 ***Location***: Bohemi Skies, Wealth orbit
 ***Weight***: Starfighter
 ***Type***: Various
@@ -801,7 +801,7 @@
 
 # Beach Crab
 
-***Mission***: 20 - 22 Redistribute the oceans (opt)
+***Mission***: 20 - 21 Redistribute the oceans (opt)
 ***Location***: Bohemi Resort
 ***Weight***: Medium
 ***Type***: Melee
@@ -812,7 +812,7 @@
 
 # Carniherring
 
-***Mission***: 10 - 22 Meet Sellof Sterces, 20 - 22 Redistribute the oceans (opt)
+***Mission***: 10 - 21 Meet Sellof Sterces, 20 - 22 Redistribute the oceans (opt)
 ***Location***: Bohemi Resort, Port of Oden
 ***Weight***: Swarm
 ***Type***: Melee
@@ -822,7 +822,7 @@
 
 # Megalodile
 
-***Mission***: 20 - 22 Redistribute the oceans (opt)
+***Mission***: 20 - 21 Redistribute the oceans (opt)
 ***Location***: Bohemi Resort
 ***Weight***: mini-Boss
 ***Type***: Various
