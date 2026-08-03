@@ -475,7 +475,7 @@ Witya: How long has that thing been an eyesore to me?
 
 ---
 
-### **🗺️** THE HAUFITUM VEIN
+### **🗺️** THE NIRGENIUM VEIN
 
 - - 🦀 **The Non-Lethal elite enemy Encounter**
 
@@ -483,17 +483,17 @@ Witya: How long has that thing been an eyesore to me?
 
 - **The Left Vector Route:** The left corridor contains the Crab Matriarch.
 
-- **Advanced Enemy Design Blueprint (Crab Matriarch):** This massive creature features several raw, glowing Haufitum crystals growing directly from its top shell. The enemy is not aggressive: when the player appears, it enters flight mode.
+- **Advanced Enemy Design Blueprint (Crab Matriarch):** This massive creature features one raw, glowing Nirgenium shard growing directly from its top shell. The enemy is not aggressive: when the player appears, it enters flight mode.
 
 - **The Resource Extraction:** The Crab Matriarch is completely immune to Witya's basic weapons and blaster damage. To extract the minerals, the player must land exactly 5 VersaWrench strikes specifically at a single leg.
 
-- **The Stun Window:** Upon absorbing the 5th regional hit, the crab triggers a temporary 10-second stun state (`Stun_Down_Idle`). Witya can jump onto its back to harvest the Haufitum crystals.
+- **The Stun Window:** Upon absorbing the 5th regional hit, the crab triggers a temporary 10-second stun state (`Stun_Down_Idle`). Witya can jump onto its back to harvest the Nirgenium shard.
 
 - **The Recovery Automation Sequence:** As soon as the internal 10-second timer ends, the crab exits its stun state, resets its leg damage, and resumes its standard fast-paced run behavior.
 
 - **Lore Information Broadcast:** Once the player completes the resource collection event, Gismotron updates the item inventory log with a vocal breakdown:
 
-**Gismotron Assistant:** Haufitum. A highly prevalent metallic crystalline substance utilizing a broad spectrum of uses. Ranges from domestic appliances to starship hull plating.
+**Gismotron Assistant:** Nirgenium. An extremely rare substance, highly valued due to its energetic potential. Its ability to store a huge number of electrons makes it a highly sought-after raw material for the production of batteries and capacitors, despite the radio waves constantly emitted by the crystal.
 
 ---
 
@@ -527,49 +527,19 @@ Witya: How long has that thing been an eyesore to me?
 
 ---
 
-#### 💎 HAUFITUM CRYSTAL (MATERIAL ID PROFILE)
-
-- 🔮 **Crystalline Lattice & Refraction Index**: The Haufitum crystal mesh uses a custom translucent material shader to simulate a dense, metallic crystalline structure. The material requires a high refractive index of 1.65 and a strict roughness clamp (0.05 to 0.1). This ensures that the sharp, low-poly edges of the facets cleanly catch ambient lighting and screen-space reflections (SSR).
-
-- 🔥 **Inner Metallic Core & Emissive Pulse**: To emphasize its conductive, industrial nature, the core uses a 3D noise texture map paired with a low-frequency emissive script. The core pulses with a deep neon-orange glow, shifting intensity by 15% every 2 seconds to simulate metallic energy and keep the crystal veins visible even in pitch-black caverns.
-
-- ⚙️ **Material ID Allocation & Occlusion Mask**: When integrated into other models (like the Crab Matriarch's shell or junkyard debris), the crystal cluster uses a dedicated Material ID. The boundary vertices where mineral meets shell or metal generate a procedural rust and calcification occlusion mask. This effect hides sharp mesh seams, making the crystal look naturally embedded.
-
----
-
 #### **⚙️** UI/UX CANVA & HUD RESOURCE TRACKING NOTES
 
-- 🖥️ **Dynamic Auto-Hide HUD Layout**: The Bolt Counter and Haufitum Crystal Counter widgets share a screen-space UI canvas layer in the top-right corner. To keep the screen clean during gameplay, these elements use an auto-hide script. If no resources update for 3.0 seconds, the widgets smoothly slide 150 pixels off-screen along the positive X-axis.
+- 🖥️ **Dynamic Auto-Hide HUD Layout**: The Bolt Counter and Nirgenum Crystal Counter widgets share a screen-space UI canvas layer in the top-right corner. To keep the screen clean during gameplay, these elements use an auto-hide script. If no resources update for 3.0 seconds, the widgets smoothly slide 150 pixels off-screen along the positive X-axis.
 
 - 🔩 **Bolt Counter & Icon Juice**: The Bolt tracking slot features a high-quality 2D render icon of a classic mechanical silver nut. When a Bolt enters Witya's vacuum collection radius, the counter numbers smoothly roll up rather than snapping instantly. Simultaneously, the nut icon spins 360 degrees along its Z-axis and triggers a 1.15 scale bounce over 8 frames for satisfying visual feedback.
 
-- 💎 **Haufutum Crystal Counter Profile**: The Haufitum tracker uses a high-contrast neon-orange crystalline vector icon matching the approved crystal material. When a resource is collected into Witya's Chest Cartridge, the text counter increments. In parallel, a wave-distortion sheen pulses horizontally across the crystal icon from left to right, paired with a crisp, high-frequency UI sound effect.
-
 ---
 
-#### **⚙️** UI/UX CANVA & DYNAMIC RESOURCE ACCUMULATION
+#### **⚙️** WEAPON SANDBOX & VACUUM PHYSICS
 
-- 💎 **The Haufitum Dynamic Pop-up Indicator**: When a crystal cluster breaks from a VersaWrench strike, the counter smoothly slides onto the screen from the right edge. Instead of jumping instantly to the new total, the UI displays a neon-orange sub-text directly next to the main value (formatted as `+ [x]`). This indicator shows the exact number of harvested crystals currently flying toward Witya.
-
-- 📥 **The Counter Absorption Phase**: Once the physical crystal debris finishes its vacuum trajectory and hits Witya's collision box, the counter triggers the absorption phase. The main number rolls up quickly over exactly 15 frames, while the secondary `+ [x]` text scales down and fades away. After 3.0 seconds with no further updates, the tracker slides back off-screen into its hidden state.
-
----
-
-#### **⚙️** WEAPON SANDBOX & VACUUM PHYSICS ОСТАНОВИЛСЯ ТУТ
-
-- ↪️ **Haufitum Shard Vacuum**: Breaking a crystal vein spawns 3 to 5 physics-based shards. **Phase 01** applies a random outward explosive push to scatter debris across the cave floor. After a 0.5-second delay, **Phase 02** starts the vacuum retraction: shard collisions deactivate, and the pieces track a real-time path straight toward Witya's chest cartridge.
+- ↪️ **Nirgenium Shard Intake**: When a crystal vein is destroyed, 1 or more shards with physical behavior are created. **Phase 01** triggers an explosion in the opposite direction of the impact to realistically throw the shard. After 0.5 seconds, **Phase 02 (Intake)** is triggered: the shard's collision is disabled, and it flies along the shortest trajectory directly to Viti's chest cartridge.
 
 - 📐 **Velocity Scaling & Distance Acceleration**: The vacuum pull cannot use a fixed speed. The system uses distance-based acceleration: as a floating shard gets closer to Witya's chest coordinates, its speed scales up by 1.25x per frame. This ensures shards snap into the hero with a fast, satisfying impact, avoiding slow, lazy hovering.
-
----
-
-#### **⚙️** AUDIO DESIGN & INVENTORY REGISTER NOTES
-
-- 🔊**Multi-Layered Crystalline Vacuum Sound**: The flight phase of the Haufitum shards toward Witya's chest uses a spatial 3D audio. The sound combines three independent layers: a high-frequency crystal chime for mineral resonance, a mid-range synthetic wind whoosh for the vacuum pull, and a subtle low-frequency hum matching the hum of Witya's chest container.
-
-- 📈 **Doppler Pitch & Volume Acceleration**: As the flying crystal shards get closer to Witya's suit, the engine continuously scales the pitch and volume to simulate the Doppler effect. The pitch frequency increases by 1.05x per frame, creating an acoustic buildup that sounds like a fast-charging energy capacitor to signal a high-speed approach.
-
-- 📥 **Cartridge Impact Sound & UI Trigger**: The exact moment a shard hits Witya's chest harness, the vacuum sound instantly stop, and a high-priority impact audio cue plays. This sound features a crisp, metallic electronic latch snap paired with a low sub-bass thud. This feedback confirms that the resource is collected, triggering the UI plus-modifier animation.
 
 ---
 
@@ -602,13 +572,33 @@ System Text Display: Immediately following the resource collection event, silent
 
 **Button Interaction Mechanics:** The player must position Witya onto the platform and look directly at the button. The button triggers a low-intensity highlight shader layer. Inputting `[INPUT_FIRE]` activates the lift's movement.
 
-- 🔩 **The Unbinil Bolt Collectible & Photo Mode Unlock**
+- 🔩 **The Haufitum**
 
-**Level Target Object:** At the top of the vertical lift path, the first **Unbinil Bolt** is placed. Intersecting its trigger volume activates a smooth pick-up animation.
+**Level Target Object:** At the very top of the elevator's ascent is the first Hophytum vein. Once the player collects it, Gismotron Assistant will say its line:
 
-**System Cheat Variable:** Unbinil Bolts serve as the currency to toggle specialized cheats. Collecting this initial bolt permanently updates the cheat menu state, unlocking "Photo Mode".
+**Gismotron Assistant:** Haufitum. A common metallic crystalline substance used in a wide variety of applications, from household appliances to starship hull plating.
 
-**Photo Mode Functionals**: Actvating this mode automatically hides the HUD, clearing all screen-space UI elements. The camera switches to a strict positional lock, clamping its focus center onto Witya's character model. The D-SAW movement controls remain fully active, allowing the player to rotate Witya toward or away from the camera lens. Camera look-around controls use screen-edge mouse cursor tracking on PC, or analog stick moving on gamepads.
+---
+
+#### 💎 HAUFITUM CRYSTAL (MATERIAL ID PROFILE)
+
+- 🔮 **Crystalline Lattice & Refraction Index**: The Haufitum crystal mesh uses a custom translucent material shader to simulate a dense, metallic crystalline structure. The material requires a high refractive index of 1.65 and a strict roughness clamp (0.05 to 0.1). This ensures that the sharp, low-poly edges of the facets cleanly catch ambient lighting and screen-space reflections (SSR).
+
+- 🔥 **Inner Metallic Core & Emissive Pulse**: To emphasize its conductive, industrial nature, the core uses a 3D noise texture map paired with a low-frequency emissive script. The core pulses with a deep neon-orange glow, shifting intensity by 15% every 2 seconds to simulate metallic energy and keep the crystal veins visible even in pitch-black caverns.
+
+- ⚙️ **Material ID Allocation & Occlusion Mask**: When integrated into other models (like the Crab Matriarch's shell or junkyard debris), the crystal cluster uses a dedicated Material ID. The boundary vertices where mineral meets shell or metal generate a procedural rust and calcification occlusion mask. This effect hides sharp mesh seams, making the crystal look naturally embedded.
+
+- ↪️ **Haufitum Shard Vacuum**: Breaking a crystal vein spawns 3 to 5 physics-based shards. **Phase 01** applies a random outward explosive push to scatter debris across the cave floor. After a 0.5-second delay, **Phase 02** starts the vacuum retraction: shard collisions deactivate, and the pieces track a real-time path straight toward Witya's chest cartridge.
+
+---
+
+#### **⚙️** UI/UX CANVA & DYNAMIC RESOURCE ACCUMULATION
+
+- 💎 **The Haufitum Dynamic Pop-up Indicator**: When a crystal cluster breaks from a VersaWrench strike, the counter smoothly slides onto the screen from the right edge. Instead of jumping instantly to the new total, the UI displays a neon-orange sub-text directly next to the main value (formatted as `+ [x]`). This indicator shows the exact number of harvested crystals currently flying toward Witya.
+
+- 📥 **The Counter Absorption Phase**: Once the physical crystal debris finishes its vacuum trajectory and hits Witya's collision box, the counter triggers the absorption phase. The main number rolls up quickly over exactly 15 frames, while the secondary `+ [x]` text scales down and fades away. After 3.0 seconds with no further updates, the tracker slides back off-screen into its hidden state.
+
+- 💎 **Haufutum Crystal Counter Profile**: The Haufitum tracker uses a high-contrast neon-orange crystalline vector icon matching the approved crystal material. When a resource is collected into Witya's Chest Cartridge, the text counter increments. In parallel, a wave-distortion sheen pulses horizontally across the crystal icon from left to right, paired with a crisp, high-frequency UI sound effect.
 
 ---
 
@@ -636,13 +626,27 @@ System Text Display: Immediately following the resource collection event, silent
 
 ---
 
-#### **⚙️** UI/UX CANVAS & PHOTO MODE CAMERA LOGIC
+#### **⚙️** LEVEL DESIGN SHORTCUTS: THE BOLT GYRATE INTERACTION
 
-- - 📺 **Global HUD Hiding**: When entering Photo Mode, the UI system instantly sets the visibility of all screen elements to Hidden. The camera view completely clears any interface text and icons, leaving only the pure environment and Witya.
+- 🔄 **The Loop Closure Vector**
 
-- 🎥 **Skeletal Center-Locked Camera**: The camera deactivates its default dynamic follow logic and locks its focal point precisely onto Witya's spine joint (`spine_02`). The camera lens is hard-anchored to this point; the camera can rotate (orbit) and zoom around the character model but is strictly blocked from flying freely through the level geometry.
+**Level Geometry**: Positioned directly behind the Unbinil Bolt is the **Bolt Gyrate** (a massive structural bolt centered on a circular platform grid). Witya uses his VersaWrench to turn this. The bolt does not screw downward; instead, it acts as a drive shaft to rotate the internal machinery beneath the platform. As soon as Witya steps onto the platform, Gismotron registers the interaction:
 
-- 🖱️ **Edge-Screen Mouse Tracking & Analog Stick Deadzone**: While the player can still use movement controls to rotate Witya's model (facing him toward or away from the lens), the camera controls switch to a new profile. On PC, the game checks the screen edges: if the mouse cursor hits the outer 5% screen boundary, the camera triggers a smooth orbit rotation. On gamepads, this look-around logic maps directly to the right analog stick with a 20% safety deadzone.
+**Gismotron Assistant:** Input [INPUT_FIRE] to interface with the Bolt Gyrate and open the heavy door.
+
+**Combat Override**: During active combat, all interaction with the Bolt Gyrates is strictly disabled. Outside of combat, stepping onto the platform remaps the `[INPUT_FIRE]` command into a continuous rotational interaction loop. The interaction is fully repeatable: re-activating the platform reverses the state, sealing the heavy door back into a closed state.
+
+**Shortcut Link**: Beyond the unlatched threshold lies the initial crash site sector—seamlessly wrapping the level design back to the exact coordinate origin of Witya's journey.
+
+---
+
+#### **⚙️** INTERACTION & GYRATE ROTATION PHYSICS
+
+- ☑️ **Gyrate Alignment & Mechanism Turning**: When Witya steps onto the platform and holds `[INPUT_FIRE]`, the character automatically snaps his position to the center of the mechanism. The sustem tracks a changing `Gyrate_Rotation_Angle` variable clamped between 0.0 and 360.0 degrees. Each frame of player interaction applies a smooth turning speed, forcing the VersaWrench and the mechanical shaft to rotate in perfect synchronization.
+
+- 🏋️ **Animation Weight & Resistance**: The interaction uses a dedicated two-handed animation (`wrench_Gyrate_Loop`). To visually show mechanical strain and heavy resistance, Witya's spine and arms apply a 15-degree upward lean offset. If the player releases the button before reaching the full 360-degree completion point, the system triggers a passive reverse-turn, slowly spinning the Gyrate bolt back to its starting position over a 45-frame window.
+
+- 🚪 **Linked Movement & Door Unlatching**: The value of the `Gyrate_Rotation_Angle` links directly to the movement of the heavy door. Reaching maximum rotation triggers a physical latch-snap sound effect, sets the gate to a permanent Unlocked state, and releases Witya back into the standard movement. If the player interacts with the completed mechanism again, the system reverses, closing the door back into a locked state.
 
 ---
 
