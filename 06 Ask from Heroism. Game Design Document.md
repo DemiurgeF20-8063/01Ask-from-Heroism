@@ -589,15 +589,15 @@ System Text Display: Immediately following the resource collection event, silent
 
 #### ⚙️ SECRET QUEST TRIGGER & AI BEHAVIOR OVERRIDE
 
-- 🗺️ **Matriarch Elevator Trap Sequence:** To trigger the hidden event, the player must execute a strict sequence of level interactions. First, Witya must activate the vertical lift platform and fully open the cavern exit blast doors. The player must then descend back to the lower lair, engage the Crab Matriarch, and land precisely 4 strikes on its leg bone colliders and force the entity to step onto the active lift platform.
+- 🗺️ **Matriarch Elevator Trap Sequence**: To trigger this hidden event, the player must execute a strict sequence of level interactions. First, Witya must activate the vertical lift platform and fully open the cavern exit blast doors. The player must then descend back to the lower lair, engage the Crab Matriarch, and land precisely 4 strikes on its leg bone colliders to force the boss to step onto the active lift platform.
 
-- ⚡ **Hit-Stop Stun & Vertical Asset Transport:** Once the Matriarch intersects the lift platform's trigger volume, the player must land the 5th strike within a strict time window. This impact initializes a 10-second high-priority `Stun_Down_Idle` animation state, overriding its Panic Flight AI. If the player fails to land this final hit, the Matriarch instantly breaks tracking and runs off the platform. If successful, activating the lift routes both Witya and the stunned enemy up to the surface zone.
+- ⚡ **Hit-Stop Stun & Vertical Platform Lift**: Once the Matriarch steps inside the lift platform's trigger zone, the player must land the 5th strike within a strict, narrow time window. This impact forces a 10-second high-priority animation state (`stun_Down_Idle`), completely overriding its standard combat AI. If the player fails to land this final hit, the Matriarch instantly runs off the platform. If successful, activating the lift carries both Witya and the stunned boss up to the surface zone.
 
-- 🚪 **Outdoor Evacuation & 5-Second Gate Occlusion:** At the upper level, the player must drive the Crab Matriarch entirely out of the cave mouth onto the open terrain of the Witya's Garage. The player must then immediately interact with the console to close the blast doors. The logic controller requires the gate to remain closed for exactly 5.0 seconds.
+- 🚪 **Outdoor Evacuation & Gate Closure**: At the upper level, the player must drive the Crab Matriarch entirely out of the cave mouth onto the open terrain near Witya's Garage. The player must then quickly interact with the console to close the main blast doors. The game logic requires the gate to remain fully closed for exactly 5.0 seconds.
 
-- 🦀 **The Allegory of the Cave Behavior Shift:** Upon tracking a 5.0-second closed door state beneath the open sky, the Matriarch's AI state machine updates its global pathfinding matrix. The creature switches its behavior profile permanently: once the doors re-open, it sprints in panic back, hard-locking its position in the furthest, tightest corner. This reduces its operational movement zone by 70%.
+- 🦀 **The Allegory of the Cave Behavior Shift**: Upon tracking a 5.0-second closed door state beneath the open sky, the Matriarch's AI state machine updates its global pathfinding. The creature changes its behavior permanently: once the doors re-open, it sprints in pure panic back toward the gate, hard-locking its position in the furthest, tightest corner outside. This permanently reduces its active movement radius by 70%.
 
-- 🏆 **Achievement Unlock Event:** The successful completion of this sequence calls the steam achievement overlay manager, granting the player a hidden unlock notification: **"The Myth of the Cave"**
+- 🏆 **Achievement Unlock Event**: The successful completion of this secret sequence calls the Steam achievement manager, granting the player a hidden unlock notification: **"The Myth of the Cave"**.
 
 ---
 
