@@ -589,11 +589,11 @@ System Text Display: Immediately following the resource collection event, silent
 
 #### ⚙️ SECRET QUEST TRIGGER & AI BEHAVIOR OVERRIDE
 
-- 🗺️ **Matriarch Elevator Trap Sequence**: To trigger this hidden event, the player must execute a strict sequence of level interactions. First, Witya must activate the vertical lift platform and fully open the cavern exit blast doors. The player must then descend back to the lower lair, engage the Crab Matriarch, and land precisely 4 strikes on its leg bone colliders to force the boss to step onto the active lift platform.
+- 🗺️ **Matriarch Elevator Trap Sequence**: To trigger this hidden event, the player must execute a strict sequence of level interactions. First, Witya must activate the lift platform and fully open the cavern exit blast doors. The player must then descend back to the lair, engage the Crab Matriarch, and land precisely 4 strikes on its leg bone colliders after which catches the moment when the crab stands on the elevator platform.
 
 - ⚡ **Hit-Stop Stun & Vertical Platform Lift**: Once the Matriarch steps inside the lift platform's trigger zone, the player must land the 5th strike within a strict, narrow time window. This impact forces a 10-second high-priority animation state (`stun_Down_Idle`), completely overriding its standard combat AI. If the player fails to land this final hit, the Matriarch instantly runs off the platform. If successful, activating the lift carries both Witya and the stunned boss up to the surface zone.
 
-- 🚪 **Outdoor Evacuation & Gate Closure**: At the upper level, the player must drive the Crab Matriarch entirely out of the cave mouth onto the open terrain near Witya's Garage. The player must then quickly interact with the console to close the main blast doors. The game logic requires the gate to remain fully closed for exactly 5.0 seconds.
+- 🚪 **Outdoor Evacuation & Gate Closure**: At the upper level, the player must drive the Crab Matriarch entirely out of the cave onto the open terrain near Witya's Garage. The player must then quickly interact with Bolt Gyrate to close the main blast doors. The game logic requires the gate to remain fully closed for exactly 5.0 seconds.
 
 - 🦀 **The Allegory of the Cave Behavior Shift**: Upon tracking a 5.0-second closed door state beneath the open sky, the Matriarch's AI state machine updates its global pathfinding. The creature changes its behavior permanently: once the doors re-open, it sprints in pure panic back toward the gate, hard-locking its position in the furthest, tightest corner outside. This permanently reduces its active movement radius by 70%.
 
