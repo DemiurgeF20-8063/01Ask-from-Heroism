@@ -1,6 +1,5 @@
 # Mechanic & Kit: Ask from Heroism. ENG GDD
-
-[[Ask from Heroism (AfH) Intellectual Property (IP)]]
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
 
 ***Important Note:*** Technical notes must be discussed by the development team before the project begins. Technical note blocks are not final and must be edited depending on technical capabilities and development budget. Furthermore, the document contains a link to
 The linked document, although more of a literary work than a technical specification, is the most understandable version for the author, where dialogue and plot threads are not interrupted by technical notes. The linked document takes precedence in the event of discrepancies or contradictions with this GDD.
@@ -3183,3 +3182,4 @@ His movement pauses, and his hand freezes in mid-air for exactly 8 frames. He th
 - 😮💨 **Sigh Animation Layer**: At the exact frame index where the sigh audio cue triggers, a separate face and torso animation override layer must blend in with high priority. The chest bone structure must noticeably drop downward along the vertical Z-axis while the head joint drops by exactly 5 degrees. The sweeping speed must temporarily slow down by 40% during this 45-frame sequence to perfectly emphasize the character's total lack of workplace motivation.
 
 ---
+CC-BY-SA 4.0 + Custom IP Restrictions
