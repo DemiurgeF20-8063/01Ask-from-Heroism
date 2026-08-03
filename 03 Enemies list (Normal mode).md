@@ -1,3 +1,6 @@
+# Enemies list (Normal mode)
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 # Hornet Toad
 
 ***Mission***: 01 Inspect the crash site
@@ -754,4 +757,4 @@
 ***Comments***: Receives healing and increases attacks if attacked by D.Y.N.O., as it "absorbs" green color.
 
 ---
-Copyright (c) 2026 DemiurgeF20.8063. All rights reserved.
+CC-BY-SA 4.0 + Custom IP Restrictions
