@@ -1,3 +1,6 @@
+# Characters list
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 Some characters will take part in several campaigns, so they can appear repeatedly in different documents. For some characters, separate cards will be created in the future with their history throughout all the campaigns in which they took part and will be added to the Mechanic-and-Kit-Universe-IP repository.
 
 ---
@@ -169,4 +172,4 @@ It is included in the character list of the first game, as his name appears in t
 Doesn't appear onscreen, but is mentioned.
 
 ---
-Copyright (c) 2026 DemiurgeF20.8063. All rights reserved.
+CC-BY-SA 4.0 + Custom IP Restrictions
