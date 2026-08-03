@@ -1,3 +1,6 @@
+# Enemies list (Challenge mode)
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 # Hornet Toad
 
 ***Mission***: 01 Inspect the crash site
@@ -872,4 +875,4 @@
 ***Comments***: LCVP-84 Hovercraft reskin. As drop spawns from 15 to 25 Sharpsphere, 5 to 8 Walker Mine, 2 to 4 Warbot Srormer, 2 - 3 Warbot Knocker, 1-2 Warbot Missiler,  2 Warbot Targeter, 1 Warbot Redirecter. After dropping, it becomes < empty state >, leaves the visible frame, and stops rendering.
 
 ---
-
+CC-BY-SA 4.0 + Custom IP Restrictions
