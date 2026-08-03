@@ -598,7 +598,7 @@
 
 # Overseer Turret
 
-***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 23 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 12 Assault Quand industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 23 Gut the Acatadop
 ***Location***: Acatadop, Costmesa Crater, GRO
 ***Weight***: Medium
 ***Type***: Far Distance
@@ -609,7 +609,7 @@
 
 # Tracker Turret
 
-***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 12 Assault Quand industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, Costmesa Crater, GRO
 ***Weight***: Medium
 ***Type***: Mid Distance
@@ -620,7 +620,7 @@
 
 # Enforcer Turret
 
-***Mission***: 09 Investigate GSDM, 12 Assault Lucin industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
+***Mission***: 09 Investigate GSDM, 12 Assault Quand industries, 13 Clear out the GRO, 22 Sneak in Acatadop, 24 Gut the Acatadop
 ***Location***: Acatadop, Costmesa Crater, GRO
 ***Weight***: Large
 ***Type***: Low Distance
@@ -631,7 +631,7 @@
 
 # Bitter JR
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: Small
 ***Type***: Melee
@@ -641,7 +641,7 @@
 
 # Mr. Bitter
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: Medium
 ***Type***: Various
@@ -651,7 +651,7 @@
 
 # Wonderer Fabrica
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: Large
 ***Type***: None
@@ -662,7 +662,7 @@
 
 # Mrs. Bitter
 
-***Mission***: 12 Assault Lucin industries
+***Mission***: 12 Assault Quand industries
 ***Location***: Costmesa Crater
 ***Weight***: BOSS
 ***Type***: Various
