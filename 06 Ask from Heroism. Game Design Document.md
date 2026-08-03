@@ -497,6 +497,16 @@ Witya: How long has that thing been an eyesore to me?
 
 ---
 
+#### 💎OBJECT SPECIFICATION: NIRGENIUM CRYSTAL (MATERIAL PROFILE)
+
+- 🔮 **Crystal Lattice & Refraction Index**: The 3D model of the Nirgenium Crystal uses a specialized semi-translucent material template designed to simulate a dense, high-value mineral structure. The material features a high refraction index (set to 1.72) and a strict roughness limit (clamped between 0.02 and 0.08). This technical configuration ensures that the sharp, low-poly gemstone facets crisply capture all ambient lighting and screen-space reflections (SSR).
+
+- 🔷 **Inner Energy Core & Cyan Pulsation**: To emphasize the raw energy potential of the crystal, its core uses a layered 3D noise texture modifier paired with a low-frequency pulsing algorithm. The core glows with a deep neon-cyan and electric-blue light spectrum, smoothly changing its brightness intensity by 20% every 1.5 seconds. This visual loop conveys massive internal energy, allowing the player to easily track hidden Nirgenium veins even in total cavern darkness.
+
+- 🦀 **Material ID Splitting & Blend Mask**: When the crystal mesh compiles onto other actors (such as growing directly out of the **Crab Matriarch armor shell** or heavy metal debris piles), the cluster is assigned a unique Material ID slot. At the intersection vectors where the blue mineral meets organic chitin or rusted steel, the vertex shader procedurally generates a custom blending mask with rust and limescale textures. This mask completely hides sharp geometry seams, making the premium crystal look naturally grown and seamlessly fused into the boss's carapace.
+
+---
+
 #### **⚙️** TECHNICAL & VFX NOTES: STREAMING BLUEPRINT
 
 - 🧪 **Blue Slime Spawn**: When a Cave Crab dies, the engine instantly replaces its skeletal mesh with a dynamic Niagara particle effect. Phase 1 triggers a high-velocity radial explosion, spawning 30 to 40 medium-sized fluid meshes with a glossy, opaque cyan material. To keep the slime looking organic, apply sub-surface scattering (SSS) directly to these meshes.
@@ -509,7 +519,7 @@ Witya: How long has that thing been an eyesore to me?
 
 #### **⚙️** MELEE STRIKE ANIMATION & KINETIC WEIGHT SYSTEM
 
-- - 📐 **Anticipation Phase & Weight Shift**: The basic strike animation (`wrench_strike_01`) uses a 4-frame anticipation window for the swing preparation. During these frames, Witya's hips and spine twist backward by 12 degrees along the yaw axis, shifting his center of mass over his back foot. This movement builds kinetic energy, showing that the heavy wrench has real physical weight that Witya's body must balance.
+-  📐 **Anticipation Phase & Weight Shift**: The basic strike animation (`wrench_strike_01`) uses a 4-frame anticipation window for the swing preparation. During these frames, Witya's hips and spine twist backward by 12 degrees along the yaw axis, shifting his center of mass over his back foot. This movement builds kinetic energy, showing that the heavy wrench has real physical weight that Witya's body must balance.
 
 - ⚡ **High-Velocity Strike & Motion Smear**: The swing executes quickly over 3 frames, creating a massive acceleration spike. To keep the animation smooth at high frame rates, the wrench and Witya's right arm trigger a custom motion blur effect. This vertex-stretching mesh fills the gaps between keyframes, creating a clean, sweeping arc that makes the attack feel razor-sharp and snappy.
 
@@ -519,7 +529,7 @@ Witya: How long has that thing been an eyesore to me?
 
 #### **⚙️** WEAPON SANDBOX & PROJECTILE PHYSICS
 
-- - 🔄 **Dual-Phase Trajectory Interpolation**: The VersaWrench projectile blueprint uses a two-phase state machine. **Phase 01 (Launch Vector)** applies a linear velocity modifier over a 10-meter range. Upon hitting max range or an enemy hitbox, it switches to **Phase 02 (Return Vector)**, using a dynamic Bezier spline calculation to smoothly route the tool back to Witya's active right hand (`Hand_R`).
+- 🔄 **Dual-Phase Trajectory Interpolation**: The VersaWrench projectile blueprint uses a two-phase state machine. **Phase 01 (Launch Vector)** applies a linear velocity modifier over a 10-meter range. Upon hitting max range or an enemy hitbox, it switches to **Phase 02 (Return Vector)**, using a dynamic Bezier spline calculation to smoothly route the tool back to Witya's active right hand (`Hand_R`).
 
 - 📐 **Rotational Angular Velocity & Hitbox Sweep**: While flying, the wrench spins 360 degrees along its local yaw axis at a high speed of 720°/s. To avoid requiring precision pixel targeting from the player, the collision volume expands during flight using a rolling sphere-sweep trace to accurately detect and damage nearby Cave Crabs.
 
@@ -547,7 +557,7 @@ Witya: How long has that thing been an eyesore to me?
 
 - 🏃 **Kinematic Deceleration & Heavy Collapse**: At the exact frame where the 5th hit registers on the target leg collider, the Crab Matriarch’s movement must instantly freeze. The boss triggers the `stun_Down_Start` transition over 8 frames: the entire model drops flat onto the cavern floor along the Z-axis, slamming its belly plates down to turn the shell into a stable, solid platform.
 
-- - 💫 **Stunned Eye Movement & Shell Vibration**: While locked in the 10-second `stun_Down_Idle` loop, the Crab Matriarch's head and pincer joints play low-frequency, uncoordinated twitching animations to show its stunned state. Its eye stalks spin outward in opposite directions, while the raw Haufitum crystals on its back trigger a rapid, low-amplitude vibration shader to show instability under the crystal cluster.
+- 💫 **Stunned Eye Movement & Shell Vibration**: While locked in the 10-second `stun_Down_Idle` loop, the Crab Matriarch's head and pincer joints play low-frequency, uncoordinated twitching animations to show its stunned state. Its eye stalks spin outward in opposite directions, and the Nirgenium shard on the back begins to vibrate finely and quickly due to the material, creating the feeling that the crystal is about to fall off.
 
 - 🧱 **Static Platform Collider Toggle**: Exactly at the final frame of the collapse animation, the Crab Matriarch's dynamic character collision box is temporarily overridden. The system activates a secondary, rigid static box collider (`Col_Shell_Platform`) directly over the back shell geometry. This ensures that if Witya stands or jumps on the crab's back, his movement vectors register the shell as standard solid ground rather than an enemy.
 
@@ -588,8 +598,6 @@ System Text Display: Immediately following the resource collection event, silent
 
 - ⚙️ **Material ID Allocation & Occlusion Mask**: When integrated into other models (like the Crab Matriarch's shell or junkyard debris), the crystal cluster uses a dedicated Material ID. The boundary vertices where mineral meets shell or metal generate a procedural rust and calcification occlusion mask. This effect hides sharp mesh seams, making the crystal look naturally embedded.
 
-- ↪️ **Haufitum Shard Vacuum**: Breaking a crystal vein spawns 3 to 5 physics-based shards. **Phase 01** applies a random outward explosive push to scatter debris across the cave floor. After a 0.5-second delay, **Phase 02** starts the vacuum retraction: shard collisions deactivate, and the pieces track a real-time path straight toward Witya's chest cartridge.
-
 ---
 
 #### **⚙️** UI/UX CANVA & DYNAMIC RESOURCE ACCUMULATION
@@ -599,6 +607,8 @@ System Text Display: Immediately following the resource collection event, silent
 - 📥 **The Counter Absorption Phase**: Once the physical crystal debris finishes its vacuum trajectory and hits Witya's collision box, the counter triggers the absorption phase. The main number rolls up quickly over exactly 15 frames, while the secondary `+ [x]` text scales down and fades away. After 3.0 seconds with no further updates, the tracker slides back off-screen into its hidden state.
 
 - 💎 **Haufutum Crystal Counter Profile**: The Haufitum tracker uses a high-contrast neon-orange crystalline vector icon matching the approved crystal material. When a resource is collected into Witya's Chest Cartridge, the text counter increments. In parallel, a wave-distortion sheen pulses horizontally across the crystal icon from left to right, paired with a crisp, high-frequency UI sound effect.
+
+- ↪️ **Haufitum Shard Vacuum**: Breaking a crystal vein spawns 3 to 5 physics-based shards. **Phase 01** applies a random outward explosive push to scatter debris across the cave floor. After a 0.5-second delay, **Phase 02** starts the vacuum retraction: shard collisions deactivate, and the pieces track a real-time path straight toward Witya's chest cartridge.
 
 ---
 
