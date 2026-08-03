@@ -1,3 +1,6 @@
+# Weapons list
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 # VersaWrench
 
 ***Game mod:*** Normal
@@ -318,4 +321,4 @@ Advertisement T1: Oh, Cadet, I see someone is interested in expanding arsenal? C
 ***Advertisement T2:*** Medical device "Tesla Charger". Utilized for electrophysiological pulse therapy to treat severe cardiac arrhythmias. The unit is designed for the emergency termination of ventricular fibrillation and restoration of sinus rhythm via a targeted high-voltage discharge. Operating manual protocol: Strictly prohibited for civilian distribution.
 
 ---
-Copyright (c) 2026 DemiurgeF20.8063. All rights reserved.
+CC-BY-SA 4.0 + Custom IP Restrictions
