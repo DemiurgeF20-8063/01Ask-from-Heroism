@@ -974,19 +974,19 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 - 🗣 **The Assistant Instructional Commentary:**  
     Concurrently with the shop screen fade-in animation, the Gismotron Assistant plays an  voice track to instruct the player on store mechanics:
 
-**Gismotron Assistant:** The available items list is displayed on the left panel, with a dynamic preview on the right. At this point in the game, your clearance level allows only the purchase of Versatech—a specialized quantum bio-gel formulated to regenerate organic tissue lacerations and repair armor plates with maximum structural efficiency. To complete a purchase, move the cursor over the item row and select confirmation.
+**Gismotron Assistant:** The available items list is displayed on the left panel, with a dynamic preview on the right. At this point in the game, your clearance level allows only the purchase of Versagel—a specialized quantum bio-gel formulated to regenerate organic tissue lacerations and repair armor plates with maximum structural efficiency. To complete a purchase, move the cursor over the item row and select confirmation.
 
 ---
 
 #### **⚙️** UI/UX VENDOR CANVAS HIERARCHY & SCREEN LAYOUT
 
-- 🖥️ **Full-Screen Viewport Blur Anchor:** Upon registering a successful player interaction input event with the terminal, the UI manager displays the `W_Terminal_Shop_Canvas` container widget directly on the screen overlay layer. The background game session enters a full-pause state, while a Gaussian Blur filter (intensity set to 4.5) smoothly softens the active level scene beneath to focus 100% of the player's attention directly onto the store interface.
+- 🖥️ **Full-Screen Viewport Blur Anchor:** Upon registering a successful player interaction input event with the terminal, the UI manager displays the `W_Terminal_Shop_Canvas` container widget directly on the screen overlay layer. Gaussian Blur filter (intensity set to 4.5) smoothly softens the active level scene beneath to focus 100% of the player's attention directly onto the store interface.
 
 - 📦 **Three-Panel Asymmetric Screen Layout:** The screen canvas layout enforces a rigid three-zone horizontal partition split by solid 3-pixel-wide amber line:
-    - **The Left Shop List (20% Screen Width Scale):** Dedicated exclusively to the `Vertical_Item_Scroll_Box`. This widget renders the purchase row cards. At the start stage, only one line is available: Replenish Health / Versatech Acquisition.
-    - 📺 **The Center Display Window (60% Screen Width)**: A large central area using a `UI_Render_Target` viewport. This section dynamically displays content based on the highlighted item. There is no empty state: upon opening the menu, the Versatech health restoration option (and later, health + ammo refill) is selected by default.
-	    - **Versatech Default State**: Since Versatech is a utility quantum gel coating for healing, it does not feature an animated commercial. When highlighted, the window simply displays its static item icon.
-	    - **Weapon Advertisements**: Moving the cursor over an active weapon card replaces the icon, triggering a high-resolution, looped 3D cinematic commercial preview for that specific weapon.
+    - **The Left Shop List (20% Screen Width Scale):** Dedicated exclusively to the `Vertical_Item_Scroll_Box`. This widget renders the purchase row cards. At the start stage, only one line is available: Replenish Health / Versagel Acquisition.
+    - 📺 **The Center Display Window (60% Screen Width)**: A large central area using a `UI_Render_Target` viewport. This section dynamically displays content based on the highlighted item. There is no empty state: upon opening the menu, the Versagel health restoration option (and later, health + ammo refill) is selected by default.
+	    - **Versagel Default State**: Since Versagel is a utility quantum gel coating for healing, it does not feature an animated commercial. When highlighted, the window simply displays its static item icon.
+	    - **Weapon Advertisements**: When you move the cursor over the card of any available weapon, the gel icon disappears, and instead a 3D advertisement for that item starts in the window.
     - **The Right Weapon Inventory (20% Screen Width Scale):** Reserved for displaying Witya's currently owned weapons. For this initial tutorial phase, this entire column is permanently locked.
 
 🎯 **Cursor Focus & Purchase Execution**: The item cards inside the menu module use an interactive state tracker. Moving the cursor over an item triggers an OnHover event: the card background shifts from a dull charcoal shade to an active neon-cyan glow, while triggering an instruction voice line from the Gismotron Assistant. Pressing the confirm key completes the purchase, firing a quick 5-frame flash animation, deducting bolts, and restoring Witya's health HUD variable back to 100%.
@@ -997,9 +997,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 
 - - 🧱 **Terminal Alignment & Snap**: When the player presses `[INPUT_INTERACT]` within the terminal's 1-meter radius, the character controller temporarily blocks movement controls. The system runs a quick 8-frame alignment, snapping Witya's base position straight to a fixed point in front of the console to face the screen directly.
 
-- 👆 **IK Finger-Tap Contact**: To fix micro-variations in terrain slope and uneven ground around the terminal, Witya's right arm (`Shoulder_R` to `Hand_R`) activates an IK target solver. The right hand lifts along the vertical Z-axis to exactly 1.1 meters, cleanly placing his index finger tip collider directly onto the holographic interface layer of the `SM_Terminal_ST07` model, completely preventing his hand from floating or clipping.
-
-- 🦊 **Shopping Idle & Secondary Motion**: While the shopping menu is open, Witya's character model switches to a low-amplitude idle animation (`Terminal_Idle_Search`). While his right hand stays locked to the interface via IK, his 4 dynamic foliage ears execute randomized, asynchronous twitches, and his 12-segment tail lazily sweeps the floor to keep the character looking alive and organic during static menu management.
+- 🦊 **Idle Search Animation**: While the store interface is open, Viti's model switches to a smooth idle background animation (`Terminal_Idle_Search`). His four dynamic leafy ears twitch randomly and alternately, while his chain of 12 tail bones lazily sweeps the floor. This makes the character appear alive and organic while the player rummages through their inventory.
 
 ---
 
@@ -1066,7 +1064,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 
 ## **🎥**  CINEMATIC INTERACTION: THE ROBOTIC RECOVERY SEQUENCE
 
-- 🤖 **The Actor Pick-Up Event**: Right after the wave is destroyed, a script triggers an automatic in-game cutscene. Witya Peros walks up to the deactivated, heavily damaged body of Kit, lifts, and picks her up in his arms to check the damage.
+- 🤖 **The Actor Pick-Up Event**: Right after the wave is destroyed, a script triggers an automatic in-game cutscene. Witya picks up the robot, dusts it off, and inspects it. The exterior appears relatively intact. Witya takes it with him and exits the frame.
 
 - 🎬 **The Transitional Match-Cut**: The scene hard-cuts to a new location, seamlessly moving the player inside Witya’s concrete apartment room. The room's look, lighting, and cheap furniture must match the design from the "Existential Crisis Scene" after the `Sneak in Acatadop` mission.
 
@@ -1106,7 +1104,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 **Kit:** Since we are navigating the same coordinates, maybe could you install P.A.R.I.S into... me?
 **Witya:** Fine. If the starship fractures in mid-flight, finding another module will be a nightmare. But I’ll have to switch you off .
 
-**System Execution Sequence**: Katya executes a self-shutdown. Witya initializing the download of the **P.A.R.I.S.** system software directly onto Kit's abdominal screen.
+**System Execution Sequence**: Katya nods, then switches off. Witya takes out the screwdriver again and starts disassembling.
 
 ---
 
@@ -1170,7 +1168,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 **Katya:** You are quite Witty.
 **Witya**: Please study my starship controls. As for me—I want to sleep. I've been working with you all night. Oh, and remind me later to weld a **magnetic klemma** onto my suit spine, so I can carry you.
 **Katya:** Why do you need to carry me?
-**Vitya:** You wanna to be kidnapped?
+**Vitya:** You wanna to be stolen?
 
 **Cinematic Exit Phase**: Witya walks over to his bed. He drops his head straight onto a fluffy pillow model (using a long-fur shader), without taking off his pants and suit.
 
@@ -1220,7 +1218,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 
 #### **⚙️** RUNNING WEIGHT OFFSETS & BALANCE ANIMATION LOGIC
 
-- 🏃 **Forward Spine Lean under Weight**: When the `Katya_Docked` variable switches to True, Witya's animation system must instantly apply a dynamic blend offset. To compensate for the heavy metal weight on his shoulder blades, his spine joints (`Spine_01` to `Spine_03`) must lean forward by exactly 6 degrees during the default run loop (`Run_Forward_Harness`). This shifts his center of mass forward so he doesn't look like he is unnaturally tilting backward under the load.
+- 🏃 **Forward Spine Lean under Weight**: When the `Katya_Docked` variable switches to True, Witya's animation system must instantly apply a dynamic blend offset. To compensate for the heavy metal weight on his shoulder blades, his spine joints (`Spine_01` to `Spine_03`) must lean forward by exactly 6 degrees during the default run (`Run_Forward_Harness`). This shifts his center of mass forward so he doesn't look like he is unnaturally tilting backward under the load.
 
 - 🦊 **Tail Balancing during Sharp Turns**: His 12-segment tail skeleton must adjust its physics behavior to act as a real counterweight. During sharp 9-degree turns at high speed, the tail must swing toward the outside edge of the turn with extra amplitude (+15% force along the side axis). This balancing movement keeps Witya from looking off-balance and emphasizes the heavy weight of the robot on his back.
 
@@ -1290,9 +1288,6 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 **Locomotion Style Override**: Witya triggers a special, non-combat march animation (`Hero_Arrogant_March`). He swings his arms wide with a slight bend in the elbows, moving with a confident, rhythmic, bouncing stride straight toward the Games main entrance.
 
 **Witya** (humming a tune to himself): I'm going, walking on the table.
-
----
-
 
 ---
 
@@ -2816,7 +2811,7 @@ Quand turns away from Unlas and rides away on his Hover Scooter towards the door
 - 🛏️ **The Bed Arrangement**: A thin, cheap mattress sits flush right against the window frame. The bed is covered in a plain brown, patternless bedspread that hides two flat pillows and a tightly folded blanket.
 
 - 📦 **The Decorative Props**:
-    - A single golden-yellow accent pillow with a long, coarse shag texture sits on one side.
+    - A single golden-yellow accent pillow with a long, shag texture sits on one side.
     - A small audio speaker prop, shaped exactly like the corporate logo of the **Tonata Rangers**, lies carelessly on the bed.
 
 ---
@@ -2851,9 +2846,9 @@ Quand turns away from Unlas and rides away on his Hover Scooter towards the door
 * **The Auxiliary Prop:** The lower shelves contain exactly the following models:
 
 	0.     One pristine **Unbinil Bolt** trophy.
-	1.     Multiple industrial device housings of un-identified origin.
+	1.     Multiple device housings of un-identified origin.
 	2.     A pair of worn, oil-stained boots.
-	3.     Several depleted **Nirgenium Cartridges** reserved for replacement loops when his integrated chest cell runs dry.
+	3.     Several **Nirgenium Cartridges** reserved for replacement when his integrated chest cell runs dry.
 	4.     A backup **VersaWrench**
 	5.     Miniature collectible figurines of Captain Unlas, the Tonata Rangers, and the deceased legend, **Master Allshield**.
 
