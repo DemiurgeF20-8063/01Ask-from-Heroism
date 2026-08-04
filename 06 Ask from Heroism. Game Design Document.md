@@ -804,11 +804,11 @@ System Text Display: Immediately following the resource collection event, silent
 
 **Breakable Wall Mechanics**: When the player throws a Homemade Grenade at the cracked rock wall, the projectile impact starts a fracturing script. The wall instantly collapses into independent debris.
 
-**System Currency Logic Override**: The game engine checks the tutorial state. IF the player enabled the Gismotron assistant, the system fires a currency deduction event (`Bolts = Bolts - 50`) and triggers the sub-routine subtitle text:
+**System Currency Logic Override**: the system fires a currency deduction event (`Bolts = Bolts - 50`) and triggers the sub-routine subtitle text:
 
 **Gismotron Assistant (Subtitle UI Layer Overlay):** 50-bolt fine for unauthorized landscape design.
 
-**System Branching Rule**: IF the player disabled the Gismotron helper module at the start prompt, the 50-bolt penalty script is completely bypassed. All dialogue interactions between Witya and the assistant are suppressed; Witya will only broadcast lonely voice-over lines when aiming the camera directly toward the cracked wall or the destroyed bridge.
+And these bolts will indeed be deducted from the shared wallet. In future, such walls will appear in the middle of levels, and Witya will receive penalties for destroying them.
 
 **Space on the other side**: Behind the wall is a small cave containing a small group of Cave Crabs and a Hophytum vein. If the player previously missed the jump from the bridge, the voice guidance about Hofitum will sound here.
 
