@@ -1257,7 +1257,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 **Interaction Intercept**: If the player inputs a `CLICK_SELECT` action on the Del-Alformar, the system blocks the hyperdrive jump and triggers an immediate dialogue:
 
 **Witya**: I'm afraid the bolts scraped from toads won't even cover a basic massage. Hey, Kate, get out of there—it's not like you need to go to Alformar either.
-**Katya** (adjusting her eye lenses): I am studying humor. Did I succeed?
+**Katya**: I am studying humor. Did I succeed?
 
 **System Warp Execution**: When the player selects Ceroscan, the camera flies out of the cockpit. The starship fires its thruster particles, shoots straight up at high speed, and flies out of the screen.
 
@@ -1328,7 +1328,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 
 **The Character Blueprint**: Standing right at the entry checkpoint is an elite NPC named **Brats**. He is wearing a formal cloth dress uniform instead of his standard heavy **Tonata Ranger hardsuit**.
 
-**Anatomical Parameters**: The model is a massive, humanoid creature standing exactly 2.5 meters tall. His hand have exactly 3 fingers.
+**Anatomical Parameters**: The model is a massive, humanoid creature standing exactly 2 meters tall. His hand have exactly 3 fingers.
 
 **Visual Sequence**: The moment Witya does his flashy acrobatic landing on the red carpet right in front of the gate, **Brats** steps in to interrupt his cocky march.
 
@@ -1341,7 +1341,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 **Katya (Mandible plate tensing in genuine mechanical confusion):** Then what criteria must a valid name possess?
 **Brats (Tapping the screen, scrolling through the rows):** Well, either way, I don't see any "Witty" or Katya on this list.
 **Witya:** Maybe... is there anyone who hasn't shown up yet?
-**Brats (Stares at Witya for a second, then lets out a deep, booming laugh):** Ha! So you're just gonna steal the spot of whoever skipped out on the games? Seems you really want to get inside this arena. Alright, head on through. Judging by that double-flip, it actually makes sense to let you try. Go over to that front deck—the logistics team will hand you a **Training Weapon**.
+**Brats (Stares at Witya for a second, then lets out a deep, booming laugh):** Ha! So you're just gonna steal the spot of whoever skipped out on the games? Seems you really want to get inside this arena. Alright, head on through. Judging by that double-flip, it actually makes sense to let you try. Go over to that central platform - the logistics team will hand you a **Training Weapon**.
 
 ---
 
@@ -1359,7 +1359,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 
 #### **🗃️** MASTER GLOBAL NOMENCLATURE: CHECKPOINT CONTROLLER
 
-- 🦎 **Brats Weales (Братс Неслабог)** — [Analogue: Registration Gatekeeper]. The 2.5-meter checkpoint officer on planet Ceroscan.
+- 🦎 **Brats Weales (Братс Неслабог)** — A 2-meter-long, insect-like, anthropomorphic creature with wings on its back, but it has 4 limbs, two arms and two legs, instead of 6, as is usually the case with insects.
 
 - **English Syntax Bounds**: 
 ***Name Meaning:*** Brats comes from a word brat.
