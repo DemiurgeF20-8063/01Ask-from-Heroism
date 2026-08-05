@@ -1884,7 +1884,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 **The Executive Desk Props**: A dark, lacquered ornate wooden desk decorated with green malachite inserts and brushed gold elements. The surface layout features exactly two static props:
 
 1. **Right Side**: A small desktop stand holding multiple micro-flags.
-2. **Left Side**: Three old analog telephones in burgundy, orange and blue.
+2. **Left Side**: Three old analog telephones in burgundy, brown and blue.
 
 🖼️ **The Wall Galleries**
 
@@ -1900,13 +1900,13 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * - 🎬 **Interactive Cinematic Dialogue Sequence**
 
-**The Context**: After Witya successfully wins the "Rangers Games," he is sent directly into the main office room for his interview. Witya enters the space, looks back toward the closed doors in obvious hesitation, and sits down on the tiny white chair. Captain Unlas sits opposite him, leaning back in his high-backed red fabric chair.
+**The Context**: After Witya successfully wins the "Rangers Games," he is sent directly into the main office room for his interview. Witya enters the space, looks back toward the closed doors in hesitation, and sits down on the tiny white chair. Captain Unlas sits opposite him, leaning back in his high-backed red fabric chair.
 
 * **Unlas:** "Congrats, potential cadet. Now, tell me... What is your lineage? What academy did you graduate from? And, most importantly... what is your budget for membership dues?"
 
 * **Witya:** "Well... I'm fast. And tough. Pretty sure you just saw the Ranger Games."
 
-* **Unlas:** (Looks Witya up and down with pure disgust) "Tough? Look at you, you're a twig. This is exactly why I should’ve been at the Games myself. Can't trust the staff to pick the right faces."
+* **Unlas:** (Looks Witya up and down) "Tough? Look at you, you're a twig. This is exactly why I should’ve been at the Games myself. Can't trust the staff to pick the right faces."
 
  * **System Animation Override:** [Unlas leans forward and aggressively grabs the Orange Phone].
 
@@ -1930,7 +1930,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * **Timida:** "Fine. Since you insist on all of us bragging about ourselves... I graduated from the Presidential University of Military Shipbuilding. But, look, I am not a combatant here. My role is operational planning." _(Glances toward Unlas, lowering her voice)_ "Or at least, I try to plan. Not that anyone actually listens to me."
 
- * **Sara: (Checking her data-pad)** "By the way, some rather telemetry just popped up regarding his vessel. His propulsion systems are two functional prototypes for ultra-fast atmospheric acceleration. Accompanied by a military-grade scanning radar."
+ * **Sara: (Checking her data-pad)** "By the way, some rather telemetry just popped up regarding his vessel. His propulsion systems are two prototypes for ultra-fast atmospheric acceleration. Accompanied by a military-grade scanning radar."
 
  * **Timida: (Snaps her head toward Witya, eyes wide, maintaining a strict academic and disciplined tone)** "Incredible... So, you are the un-authorized operative who dismantled my transport while I was taking a brief on Meltin?"
 
@@ -1964,7 +1964,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * **Unlas:** "Fine. We'll organize the paperwork. We actually need a janitor and a repairman anyway—just to make sure our weapons don't jam during public matinees and look shiny at the parades!"
 
-* **Witya:** "No way! I didn't bust my tail getting here from Meltin just to swap one garage for another!"
+* **Witya:** "No way! I didn't bust my tail getting here just to swap one garage for another!"
 
 * **System Event Lock:** _[Witya gets up from the small white stool and aggressively walks toward the exit doors]._
 
@@ -1983,7 +1983,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * **Unlas:** _(Turning toward Timida)_ "We will find ourselves a different gunsmith. Someone with actual legal documentation and zero criminal history."
 
-* **System Animation Override:** _[Unlas leans forward and forcefully grabs the Orange Telephone unit once again]._
+* **System Animation Override:** _[Unlas leans forward and forcefully grabs the brown Telephone unit once again]._
 
 * **Unlas:** _(Shouting into the receiver)_ "Brats! Escort the Mechanic out. This candidate is rejected!"
 
@@ -2050,11 +2050,11 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 - 🌌 **Enemy Atmospheric Entry**
 
-**Visual Sequence**: The camera shifts to a wide, cosmic skybox angle. Witya’s scrap starship drifts away from Ceroscan. Suddenly, a massive warp-in effect triggers, spawning four massive **Quand Industries** warship straight into the camera view.
+**Visual Sequence**: The camera shifts to a wide, cosmic skybox angle. Witya’s scrap starship drifts away from Ceroscan. Suddenly, space distorts and four **Quand Industries** corvettes emerge from hyperspace right in front of the camera.
 
 **Technical Spec**: Each warship features a prominent forward-facing **Needle Drive Coil** (Катушка привода «Игла») on its nose cone. Upon completing their decelerating warp jump, the coils retract into the main hull armor, preparing the fleet for atmospheric entry.
 
-**Katya** (Optical lens zooming and clicking in alarm): Witty... Those are military combat vessels.  
+**Katya** (Optical lens zooming and clicking in alarm): Witty... Those are combat vessels.  
 **Witya**: Kate, look, just call me Witya then, or whatever... And... what do we care if those vessels are military?  
 **Katya** (Mandible plates tensing as she drops her "Witty" nickname): Fine. Witya. We care because this is an active invasion, not a standard docking arrival!
 
@@ -2064,9 +2064,9 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 **Witya**: Attacking the galaxy cultural capital? What would make them do that?  
 **Katya**: Do you think that I have the answer to that? But one thing is perfectly clear now—Tonata Rangers are not in cahoots. We should provide combat assistance.  
-**Witya** (Pondering, eyes blinking before a sudden smirk triggers): And why should we help them after all that garbage... Wait, exactly—the television! After an invasion, the cameras and news won't leave them alone for a single second! I'm putting myself in that broadcast!
+**Witya** (Pondering, eyes blinking): And why should we help them after all that garbage... (He thinks for a second, then a smirk appears on his face) Wait, exactly—the television! After an invasion, the cameras and news won't leave them alone for a single second! I'm putting myself in that broadcast!
 
-**Flight Acceleration Vector**: The scrap starship ignites its secondary booster engines, plunging at extreme speed back down into Ceroscan’s upper atmosphere to initialize Act II.
+**Flight Acceleration Vector**: The scrap starship back down into Ceroscan
 
 ---
 
@@ -2193,7 +2193,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 3. Engage `[INPUT_BOOST]` to activate the experimental drives, accelerating the combined mass toward a targeted **Grable Corvette** mesh.
 4. Release `[INPUT_MAGNET]` at the peak of the acceleration curve to hurl the Warbots along a fast inertial trajectory directly into the shield system, before pulling up sharply to avoid crashing.
 
-⚙️ **Acceleration Requirement**: The damage system strictly checks the ship's current speed. To successfully launch captured Warbots forward, Viti's custom ship must be in the active boost phase (`[INPUT_BOOST]`). If the player attempts to release them below this speed threshold, the robots will not damage the corvettes' energy shields.
+⚙️ **Acceleration Requirement**: The damage system strictly checks the ship's current speed. To successfully launch captured Warbots forward, Witya's custom ship must be in the active boost phase (`[INPUT_BOOST]`). If the player attempts to release them below this speed threshold, the robots will not damage the corvettes' energy shields.
 
 ---
 
@@ -2201,7 +2201,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 - 🎛️ **The Turret Fire Rate Difficulty Scaling**: The heavy automated defense turrets mounted across the hulls of the **Grable Corvettes**, scale their targeting speed and firing behavior to match the global difficulty variable:
     - **Minimum Difficulty**: The corvette’s main anti-air blaster turrets are completely disabled (`Weapon_Active = FALSE`). The capital ships work strictly as passive obstacles on the level, letting the player safely gather Warbots without taking damage.
-    - **Medium and Higher Difficulty Tiers**: The turret defense system is fully active. The capital warships actively track Witya’s starship, firing dense walls of defensive flak projectiles that the player must actively evade using quick **Flight_Dash_Steps** while holding their acceleration curve.
+    - **Medium and Higher Difficulty Tiers**: The turret defense system is fully active. The corwettes actively track Witya’s starship, firing dense walls of defensive flak projectiles that the player must actively evade using quick **Flight_Dash_Steps** while holding their acceleration curve.
 
 ---
 
