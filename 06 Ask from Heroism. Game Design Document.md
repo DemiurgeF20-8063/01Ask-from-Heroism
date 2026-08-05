@@ -1425,7 +1425,7 @@ The game engine checks the global `Difficulty_Tier` variable to choose what happ
 
 - **Tier 02: Medium Difficulty**
 
-**Fail-State Resolution**: Triggers a standard Game Over screen overlay. The engine stops the gameplay loop and turns off active physics. The player must manually select `LOAD_SAVE` from the main menu. Manual saves are blocked during combat and work only in safe areas.
+**Fail-State Resolution**: Triggers a standard Game Over screen overlay. The engine stops the gameplay loop and turns off active physics. The player must manually select `LOAD_SAVE` from the main menu. Manual saves are blocked during combat.
 
 - **Tier 03: Legend Difficulty**
 
@@ -1514,7 +1514,7 @@ The game engine checks the global `Difficulty_Tier` variable to choose what happ
 
 **Level Connectivity Array**: At the very top of the structure sits a mechanism to open the gate to Trial Two, alongside a physical Zipline handle. Interacting with the handle locks Witya into a fast downward slide, taking him safely back to the starting area.
 
-**The Visual Foreshadowing POI**: Looking out from the top platform, the player can see a separate, distant floating metal platform packed with Bolt Crates. This platform is too far to reach with standard Act I jumps. Reaching this secret area requires the player to backtrack here later after unlocking the **Fan-pack** upgrade in the inventory.
+**The Visual Foreshadowing POI**: Looking out from the top platform, the player can see a separate, distant floating metal platform packed with Bolt Crates. This platform is too far to reach with standard Act I jumps. Reaching this secret area requires the player to backtrack here later after unlocking the **Fan-pack** upgrade.
 
 ---
 
@@ -1754,7 +1754,7 @@ The boss battle tracks Brats' current health percentage (`Boss_HP`) and checks t
 
 #### 3) The Pressure Water Shotgun — Jump-Over Vector (Водяной дробовик)
 
-- **Standard Trigger Constraints (Low/Med Difficulty)**: This attack is completely locked until `Boss_HP` drops below 33%. Brats executes a 1.0-second visible weapon charge animation (telegraphed via a loud pneumatic audio cue). He then discharges a massive, flat horizontal water wave cutting across the floor. The collision height is clamped at 0.6 meters, forcing a strict jump-over mechanic: Witya can only avoid the attack by performing a vertical jump.
+- **Standard Trigger Constraints (Low/Med Difficulty)**: This attack is completely locked until `Boss_HP` drops below 33%. Brats executes a 1.0-second visible weapon charge animation (telegraphed via a loud pneumatic audio cue). He then discharges a massive, flat horizontal water wave cutting across the floor. The collision height is clamped at 0.6 meters, forcing a strict jump-over mechanic: Witya can only avoid getting wet by performing a jump.
 
 - **High Difficulty Override (Legend/Plausible)**: The Water Shotgun attack is unlocked and fully active from the absolute start of the boss battle.
 
