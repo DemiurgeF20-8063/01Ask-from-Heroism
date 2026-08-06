@@ -2286,7 +2286,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 - 🎒 **The Back-Harness Attachment**
 
-**Visual Transition Cut**: Witya climbs out of his ship's cockpit. Katya folds compactly into a "toaster" shape and clicks into the magnetic socket (clamp) on his back. Witya calmly descends from the fighter's wing onto the metal deck of the square, ignoring any unnecessary pirouettes or jumps.
+**Visual Transition Cut**: Witya climbs out of his ship's cockpit. Katya folds compactly into a "toaster" shape and clicks into the magnetic socket (clamp) on his back. Witya calmly descends from the fighter onto the square, ignoring any unnecessary pirouettes or jumps.
 
 Witya reaches into pocket, retrieving the flat, glowing neon-blue card (The Sector Pass). Without turning his head, he extends his right hand backward over his shoulder:
 
@@ -2363,10 +2363,10 @@ Katya inserts the flat card smoothly inside the internal slot. The screen door s
 **Sector Topology Note**: To prevent messy screen clutter, the street arenas maintain a low enemy density. Instead of spamming the player with copies of the same mob, combat setups rely on mixing distinct enemy archetypes.
 
 - 🕷️ **Enemy 01: Walkermines (Гуляющие мины)**
-	**Operational Blueprint**: Low-profile, fast-scuttling mobile landmines. Upon detecting the player, they run an aggressive chase loop straight toward Witya before triggering a loud, final countdown beep right before exploding.
+	**Operational Blueprint**: Low-profile, fast-scuttling mobile landmines. Upon detecting the player, they run an aggressive chase loop straight toward Witya. On lower difficulties, they trigger a loud beeping timer just before detonating. On higher difficulties, they explode immediately if they get close enough to Witya.
 
 - 🤖 **Enemy 02: Warbot Shooters (Варботы-Застрельщики)**
-	**Operational Blueprint**: Standard enemy infantry units. They position themselves behind cover or on vantage points, firing continuous blaster bullet streams to pin down the player from medium range.
+	**Operational Blueprint**: Standard enemy infantry units. They position themselves behind cover or on vantage points, firing continuous bullet streams to pin down the player from medium range.
 
 - 💣 **Enemy 03: Warbot Catapulters (Варботы-Швырятели)**
 	**Operational Blueprint**: They occupy supporting combat positions, continuously lobbing short-range explosive grenades to force Witya to keep moving and leave his cover.
@@ -2447,7 +2447,8 @@ The terminal database instantly unlocks the secondary operational tabs: **Ammuni
 
 **First Purchased Weapon:** Witya gains access to his first weapon: the Cadet Blaster. Despite its name, it fires standard bullets at medium range and a medium rate of fire. It's free. When the player hovers over it and clicks, a small ad appears:
 
-**Terminal:** Brats, are you gripping your blaster too tightly again? Unfortunately, the standard terminal can only issue the Cadet Blaster. Contact the Armory at Headquarters for a full replacement.
+**Terminal:** Brats, are you gripping your blaster too tightly again? Unfortunately, the standard terminal can only issue the Cadet Blaster. Contact the Armory at Headquarters for a full replacement
+Moreover, in this advertisement, the model of Brats Weales will be used because of this card, while in all subsequent ones, Witya will appear.
 
 ---
 
@@ -2890,9 +2891,7 @@ Quand turns away from Unlas and rides away on his Hover Scooter towards the door
 
 #### 💥 3. THE ANGER OUTBURST & THE WALL CRACK REVEAL
 
-Optimized English Version
-
-- **Smashing the Speaker**: Witya snaps into an immediate rage state. He slams the emblem speaker onto the floor plates and stamps down hard on it with his foot, acting like a heavy industrial press. The plastic casing shatters completely, exploding into sharp shards across the room corners.
+- **Smashing the Speaker**: Witya snaps into an immediate rage state. He slams the emblem speaker onto the floor and stamps down hard on it with his foot, acting like a heavy industrial press. The plastic casing shatters completely, exploding into sharp shards across the room corners.
 
 - **Tearing the Poster**: Witya leaps onto his work-chair, aggressively gripping and tearing down the Tonata Rangers promotional poster hanging above his soldering workbench.
 
@@ -2915,11 +2914,11 @@ Optimized English Version
 
 * - **The External Wall Crack View**: The camera cuts outside the building, tracking Witya strictly through the jagged concrete wall crack. Witya's facial expression shifts dynamically from raw, explosive rage to profound, catatonic grief.
 
-- **90-Degree Shot**: The camera pans directly over the bed frame, at a precise 90-degree angle downwards. Witya is lying on his back, still in his full Tonata Ranger armor, clutching a small, rough pillow to his chest plate.
+- **90-Degree Shot**: The camera pans directly over the bed frame, at a precise 90-degree angle downwards. Witya is lying on his back, still in his full Tonata Ranger armor, clutching a small, pillow to his chest plate.
 
-- **The First-Person View & The Insect**: The camera shifts to a strict first-person perspective from Witya's view, looking straight up. Suspended directly above him is a rotating miniature model of his native star system, styled like a handmade baby mobile. A generic insect flies into the frame and lands directly onto the physical sphere of the planet Meltin, which hangs by an old, worn thread.
+- **The First-Person View & The Insect**: The camera shifts to a strict first-person perspective from Witya's view, looking straight up. Suspended directly above him is a rotating miniature model of star system, styled like a handmade baby mobile. A insect flies into the frame and lands directly onto the sphere of the planet Meltin, which hangs by an old, worn thread.
 
-- **Turning Towards the Side Camera**: The camera dynamically cuts to a close side-angle view, positioned near the room's inner wall close to the bed. Witya turns onto his left side, rolling over to face directly into the camera lens while placing a yellow, long-pile pillow under his head. Witya lies still in silence for a few moments, his face close to the foreground.
+- **Turning Towards the Side Camera**: The camera dynamically cuts to a close side-angle view, positioned near pillows. Witya turns onto his left side, rolling over to face directly into the camera lens while placing a yellow, long-pile pillow under his head. Witya lies still in silence for a few moments, his face close to the foreground.
 
 - **The Foreground Drop**: The insect chews through the old, fragile thread. The miniature sphere of Meltin detaches from the mobile frame and drops heavily onto the bed sheets, landing directly in the foreground, right between Witya's nose and the camera lens.
 
@@ -2936,8 +2935,6 @@ Optimized English Version
 ---
 
 ### 🚪 THE SHUTTING DOOR CINEMATIC (THE EMPTY SHELVES REVEAL)
-
-Optimized English Version
 
 - **The Fixed Camera Frame**: The camera cuts to its final shot, locking its focus strictly onto the storage rack wall. The opening door frame completely blocks the player's view of where the **Aviator Cap** and the **VersaWrench** are stored.
 
@@ -2983,7 +2980,7 @@ Quand swallows hard. He obediently crawls back onto his hoverscooter.
 * **Quand:** I won't!
 * **Witya:** Aim it.
 * **Quand:** And what are you gonna do, kill me, huh?
-* Witya holsters his heavy blaster and equips the Sheepmorpher.
+* Witya holsters his blaster and equips the Sheepmorpher.
 * **Witya:** No. You’re going to enjoy hay and barn.
 * **Katya:** He won't. He... will keep his sanity.
 * **Witya:** Even better. That means you will definitely press that button. What's my price.
@@ -2994,7 +2991,7 @@ Quand swallows hard. He obediently crawls back onto his hoverscooter.
 
 - 💼 **The Sovereignty Shift Trigger**
 
-Visual Sequence: Quand turns away sharply, breaking eye contact with Witya, and barks an order toward the Grable control terminal array.
+Visual Sequence: Quand turns away sharply, breaking eye contact with Witya, and barks an order toward the control terminal.
 
 * **Quand:** Prepare for Deplanetation!
 * **Katya:** Maybe... maybe we should just keep this Frankenplanet? We could use it to... relocate those whom he displaced.
@@ -3017,7 +3014,7 @@ Witya and Quand spin around instantly, raising their arms in compliance.
 
 The surrounding robots scatters away from Unlas, tracking him with their weapon systems and re-targeting their blaster barrels.
 
-* **Unlas:** _(Forcefully raising his hands, voice cracking in panic)_ "I didn't mean to! Honestly!"
+* **Unlas:** _(Forcefully raising his hands)_ "I didn't mean to! Honestly!"
 
 ---
 
@@ -3027,20 +3024,20 @@ The surrounding robots scatters away from Unlas, tracking him with their weapon 
 
 Sveta continues her stride toward the central bridge.
 
-* **Sveta:** Yes. We will relocate Wealth Refussi to another star system and settle everyone you displaced. For free.
+* **Sveta:** Yes. We will relocate Wealth Refussi to another star system and resettle all those whom Quand displaced.. For free.
 * **Quand:** For free?
 
 **Psychological Destabilization:** Instantly reacting to the statement, Quand’s capitalistic logic collapses. In a split-second movement, he dives downward, aggressively slamming his hand onto the large red button.
 
 * **Quand:** No one...
 
-One of the Tonata Ranger robots fires an immediate reflex shot. The energy projectile impacts Quand. Quand collapses onto the deck substrate but remains semi-conscious. He stares at the floor, shaking his head violently.
+One of the Tonata Ranger robots fires an immediate shot. The energy projectile impacts Quand. Quand collapses onto the deck substrate but remains semi-conscious. He stares at the floor, shaking his head violently.
 
 Witya turns away from the bridge crew, redirecting his view entirely toward the panoramic observation window. He watches as Wealth Refussi shatters into small kinetic fragments. The camera captures the full-scale cosmic apocalypse rendering outside the hull structure.
 
 * **Witya:** I'm sorry. This is my fault. I brought him here at gunpoint...
 
-**Sveta** stands next to Witya, placing her hand on his shoulder. **Sveta** and Vitya make eye contact.
+**Sveta** stands next to Witya, placing her hand on his shoulder. **Sveta** and Witya make eye contact.
 
 * **Sveta:** It's not your fault... You... You couldn't have known. Even I don't completely... It's okay to love your home. It's normal.
 
@@ -3066,7 +3063,7 @@ Vitya turns his whole body and adopts a slightly lustful expression.
 
 **Cinematic Camera Switch:** The camera cuts sharply to a dedicated tracking frame focused entirely on **Sveta**.
 
-**Sveta:** Honestly, I... was surprised. You did it even faster than I arrived.
+**Sveta:** Honestly, I... was surprised. You did it even faster than we arrived.
 
 **Witya:** Yeah. So they really call someone after all...
 
@@ -3074,13 +3071,13 @@ Sveta scans Witya's from top to bottom, breaking into a smirk as she delivers he
 
 **Sveta:** Hero.
 
-Witya looks up from under his brows, but his brow ridges remain relaxed, creating a non-aggressive expression. He smiles, raising his hand to scratch the back of his head.
+Witya looks up from under his brows, but his brow ridges remain relaxed, creating a non-aggressive expression. He smiles, raising his hand to scratch the back of his head, but only scratches his helmet. He presses a button and the helmet slides off his head, revealing he's wearing an aviator cap.
 
 Sveta executes a quick wink animation, and walks off to assist the Ranger robots in escorting Quand.
 
-Witya scratches at his neck, adjusting the aviator cap he equipped earlier as a contingency for Meltin's potential destruction. He tugs at the collar of his suit.
+Witya tugs at the collar of his suit.
 
-**Katya:** Why did you put on that dusty aviator cap anyway?
+**Katya:** Why did you put on that dusty aviator cap?
 
 The camera zooms in on a close-up of Sveta's shoulder pad. She's standing in profile relative to Viti; the pad bears the Tonata Rangers logo.
 
