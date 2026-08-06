@@ -1066,6 +1066,58 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 
 - 🤖 **The Actor Pick-Up Event**: Right after the wave is destroyed, a script triggers an automatic in-game cutscene. Witya picks up the robot, dusts it off, and inspects it. The exterior appears relatively intact. Witya takes it with him and exits the frame.
 
+### 🛏️ 1. THE LIVING & SLEEPING ZONE: THE POST-OPOZITUM DEPRESSION CELL
+
+- **The Room Constraints**: A tiny, cheap kennel. Cramped and constricted, capable of causing claustrophobia and a feeling of moral emptiness.
+
+- 🪟 **The Window & Lighting Layout**: Positioned directly opposite the entry door is a basic window frame with no windowsill. It is covered by thin, cheap drapes that let external ambient light bleed into the room.
+
+- 🛏️ **The Bed Arrangement**: A thin, cheap mattress sits flush right against the window frame. The bed is covered in a plain brown, patternless bedspread that hides two flat pillows and a tightly folded blanket.
+
+- 📦 **The Decorative Props**:
+    - A single golden-yellow accent pillow with a long, shag texture sits on one side.
+    - A small audio speaker prop, shaped exactly like the corporate logo of the **Tonata Rangers**, lies carelessly on the bed.
+
+---
+
+### 🛠️ 2. The Workbench & Tech Infrastructure (The Outlaw Engineer Grid)
+
+**The Desk Workspace:** Positioned against the opposite perimeter wall is a heavily cluttered, un-organized engineering workbench covered in soot, tools, and hardware scrap.
+
+**The Technical Equipment Arrays:**
+1.     A high-temperature soldering iron prop.
+2.     An outdated, analog oscilloscope.
+3.     A heavy-duty **BGA Reballing Station** utilized for high-tier processor and microchip replacement swaps, positioned immediately adjacent to the desk layout.
+
+* **The "Grentera Fat" Easter Egg Container:** A cylindrical snack container (visually identical to a _Pringles_ can) sits on the workbench surface. The texture map contains two distinct localized warning labels:
+	* _Primary Label:_ **"Grentera Fat"** (Жир Гринтера).
+	* _Secondary Subtext:_ **"For culinary use only—Do NOT use as soldering flux!"**
+
+* **The Wall Graphics:** A faded, slightly torn marketing poster depicting Captain Unlas and the Tonata Rangers hangs directly above the cluttered workbench.
+
+* **The Improvised Ventilation:** Located on the window-side wall, close to the desk structure, is a crudely chiseled, rough circular hole smashed through the concrete. A standard industrial cooling fan is forcefully jammed into the opening to serve as makeshift ventilation against toxic rosin fumes.
+
+---
+
+### 🗄️ 3. The Storage Rack Inventory (The Trophy Archive)
+
+* **The Structural Rack:** A crude, self-built wooden shelving unit is wedged tightly between the bed frame and the main entrance door seal.
+
+* **The High-Priority model (The Aviator Cap):** The topmost shelf holds a distinct **Aviator Cap (Кепка авиатора)**.
+
+	* This item is a narrative milestone tool. Shaders and vertex lighting must ensure this cap is highly visible and rendered as an essential, un-missable visual element of Witya's permanent silhouette from this narrative point forward.
+
+* **The Auxiliary Prop:** The lower shelves contain exactly the following models:
+
+	0.     One pristine **Unbinil Bolt** trophy.
+	1.     Multiple device housings of un-identified origin.
+	2.     A pair of worn, oil-stained boots.
+	3.     Several **Nirgenium Cartridges** reserved for replacement when his integrated chest cell runs dry.
+	4.     A backup **VersaWrench**
+	5.     Miniature collectible figurines of Captain Unlas, the Tonata Rangers, and the deceased legend, **Master Allshield**.
+
+---
+
 - 🎬 **The Transitional Match-Cut**: The scene hard-cuts to a new location, seamlessly moving the player inside Witya’s concrete apartment room. The room's look, lighting, and cheap furniture must match the design from the "Existential Crisis Scene" after the `Sneak in Acatadop` mission.
 
 - ⚙️ **The Environmental Trigger (The Self-Built Exhauster)**: Witya enters the frame holding Kit and places her right in the middle of his workbench. He reaches out to turn on a homemade exhaust fan — a crude, mismatched fan model attached by hand over an open vent hole in the concrete block wall.
@@ -1944,9 +1996,9 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * **Witya:** "Hey! I definitely did _not_ do that!"
 
-* **Sara:** "Let's see the entry description. _'At the age of 26, arrived directly from the year 1834 with an older friend possessing white fur. Initiated an un-provoked assault on a Lucin Industries’ engineer, identifying the target as... Si-en-ce?'_"
+* **Sara:** "Let's see the entry description. _'At the age of 26, arrived directly from the year 1834 with an older friend possessing brown fur. Initiated an un-provoked assault on a Lucin Industries’ engineer, identifying the target as... Si-en-ce?'_"
 
-* **Witya:** "I am 22! And I don't have any white-furred friends!"
+* **Witya:** "I am 22! And I don't have any brown-furred friends!"
 
 * **Sara:** _(Smirks, closing the data-pad)_ "Fine. You didn't do it. Not yet, anyway."
 
@@ -2015,7 +2067,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 #### **🗃️** MASTER GLOBAL LORE PROFILE: SKELETAL HISTORICAL RE-CONSTRAINTS
 
-- ⏳ **Alarein Suunt Nomenclature**: His naming convention formally rejects random text assembly. The prefix Alarein acts as an intentional phonological distortion of Alathein — the ancient root of Alastor (meaning "The Unforgetting" / «Незабывающий»). This etymology sets his personality baseline: an unyielding, memory-locked commander who archives every strategic betrayal and grievance.
+- ⏳ **Alarein Suunt Nomenclature**: The prefix Alarein acts as an intentional phonological distortion of Alathein — the ancient root of Alastor (meaning "The Unforgetting" / «Незабывающий»). This etymology sets his personality baseline: an unyielding, memory-locked commander who archives every strategic betrayal and grievance.
 
 - 💥 **Executor of Scripts (EoS) Timeline Anchor**: In direct contrast to soft multi-verse media logs where side comedy characters handle plot strikes against faction leaders, the **Executor of Scripts** database enforces a strict rewrite rule. The physical facial fracture (**"финал/синяк"**) delivered to the main antagonist's face was executed personally and physically by **Alarein Suunt**.
 
@@ -2800,70 +2852,13 @@ Quand turns away from Unlas and rides away on his Hover Scooter towards the door
 
 ---
 
-
-## 🗂️ ENVIRONMENT & PROP SPECIFICATION: ENDGAME PHASE (WITYA'S APARTMENT)
-
-### 🛏️ 1. THE LIVING & SLEEPING ZONE: THE POST-OPOZITUM DEPRESSION CELL
-
-- **The Room Constraints**: A tiny, cheap kennel. Cramped and constricted, capable of causing claustrophobia and a feeling of moral emptiness.
-
-- 🪟 **The Window & Lighting Layout**: Positioned directly opposite the entry door is a basic window frame with no windowsill. It is covered by thin, cheap drapes that let external ambient light bleed into the room.
-
-- 🛏️ **The Bed Arrangement**: A thin, cheap mattress sits flush right against the window frame. The bed is covered in a plain brown, patternless bedspread that hides two flat pillows and a tightly folded blanket.
-
-- 📦 **The Decorative Props**:
-    - A single golden-yellow accent pillow with a long, shag texture sits on one side.
-    - A small audio speaker prop, shaped exactly like the corporate logo of the **Tonata Rangers**, lies carelessly on the bed.
-
----
-
-### 🛠️ 2. The Workbench & Tech Infrastructure (The Outlaw Engineer Grid)
-
-**The Desk Workspace:** Positioned against the opposite perimeter wall is a heavily cluttered, un-organized engineering workbench covered in soot, tools, and hardware scrap.
-
-**The Technical Equipment Arrays:**
-1.     A high-temperature soldering iron prop.
-2.     An outdated, analog oscilloscope.
-3.     A heavy-duty **BGA Reballing Station** utilized for high-tier processor and microchip replacement swaps, positioned immediately adjacent to the desk layout.
-
-* **The "Grentera Fat" Easter Egg Container:** A cylindrical snack container (visually identical to a _Pringles_ can) sits on the workbench surface. The texture map contains two distinct localized warning labels:
-	* _Primary Label:_ **"Grentera Fat"** (Жир Гринтера).
-	* _Secondary Subtext:_ **"For culinary use only—Do NOT use as soldering flux!"**
-
-* **The Wall Graphics:** A faded, slightly torn marketing poster depicting Captain Unlas and the Tonata Rangers hangs directly above the cluttered workbench.
-
-* **The Improvised Ventilation:** Located on the window-side wall, close to the desk structure, is a crudely chiseled, rough circular hole smashed through the concrete. A standard industrial cooling fan is forcefully jammed into the opening to serve as makeshift ventilation against toxic rosin fumes.
-
----
-
-### 🗄️ 3. The Storage Rack Inventory (The Trophy Archive)
-
-* **The Structural Rack:** A crude, self-built wooden shelving unit is wedged tightly between the bed frame and the main entrance door seal.
-
-* **The High-Priority model (The Aviator Cap):** The topmost shelf holds a distinct **Aviator Cap (Кепка авиатора)**.
-
-	* This item is a narrative milestone tool. Shaders and vertex lighting must ensure this cap is highly visible and rendered as an essential, un-missable visual element of Witya's permanent silhouette from this narrative point forward.
-
-* **The Auxiliary Prop:** The lower shelves contain exactly the following models:
-
-	0.     One pristine **Unbinil Bolt** trophy.
-	1.     Multiple device housings of un-identified origin.
-	2.     A pair of worn, oil-stained boots.
-	3.     Several **Nirgenium Cartridges** reserved for replacement when his integrated chest cell runs dry.
-	4.     A backup **VersaWrench**
-	5.     Miniature collectible figurines of Captain Unlas, the Tonata Rangers, and the deceased legend, **Master Allshield**.
-
----
-
 ## 🪐 THE REJECTION OF THE BRAND
 
 * 🗂️ **Master Cinematic Event & Dynamic Camera Lock Pass**
 
 * 📍 **The Context:** Immediately following the destruction of Opozitum. Witya returns to his quarters in a state of high-intensity emotional and psychological collapse.
 
----
-
-#### 🎥 1. Camera Composition & Blocking (The Obstructed Frame)
+🎥 1. Camera Composition & Blocking (The Obstructed Frame)
 
 * **The Camera Vector:** The camera lens maintains a static, fixed perspective directed entirely at the center storage rack array. The **Aviator Cap** is framed precisely in the absolute dead-center of the middle shelf.
 
