@@ -33,5 +33,11 @@ You are fully permitted to create your own commercial or non-commercial games, l
 
 6. 🦊 EXCEPTION FOR THE FLUFFY SUB-CLASS (Fustix Fluffy): The only open template of the race is the Fustix Fluffy sub-class. If you plan to author a storyline involving Fluffy units, you ARE REQUIRED to contact the Author directly via GitHub for canon verification. The storyline will be approved for publication only if it fully complies with the internal racial criteria provided by the Author.
 
-7. ⚙️ MATERIAL SHARING REQUIREMENT (SA): You may freely utilize the open technical features (Bolt Gyrate logic, oil sheen shaders, vacuum physics), but your modifications to these specific systems must remain open to the community under the same ShareAlike conditions.
+7. 🤝 THE CORE DIMENSIONS COLLABORATION (REV-SHARE CO-AUTHORSHIP):
+   If you wish to officially assist in developing the main series and scripting the narrative events within the Core Dimensions (World of Chords (Suns of Universe), 1А1-66-115, 2А1-66-115, 2G4-17-055, 1H7-47-288), you can apply for an official Co-Author / Staff Writer status. This process requires a strict legal and creative protocol:
+   - 📑 Absolute Creative Supervision: You will work directly under the Author's strict supervision. Every script, plot point, and character arc must pass the Demiurge's approval to become canon.
+   - 💼 Legal Status & Revenue Share (Rev-Share): This is a collaborative, post-release split contract. Co-authors explicitly agree to work on a Revenue Share basis. You will receive a legally defined percentage (%) of the game's net revenue (defined as total revenue minus the budget reserved for the subsequent game's development). No upfront payments or budgets are guaranteed prior to the game's release.
+   - 📧 Contact Protocol: To pitch your ideas, join the core writing team, or discuss a formal contract, you must contact the Author directly through the official GitHub profile communication channels.
+
+8. ⚙️ MATERIAL SHARING REQUIREMENT (SA): You may freely utilize the open technical features (Bolt Gyrate logic, oil sheen shaders, vacuum physics), but your modifications to these specific systems must remain open to the community under the same ShareAlike conditions.
 
