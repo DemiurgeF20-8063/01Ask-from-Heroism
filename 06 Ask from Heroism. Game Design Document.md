@@ -1952,7 +1952,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * - 🎬 **Interactive Cinematic Dialogue Sequence**
 
-**The Context**: After Witya successfully wins the "Rangers Games," he is sent directly into the main office room for his interview. Witya enters the space, looks back toward the closed doors in hesitation, and sits down on the tiny white chair. Captain Unlas sits opposite him, leaning back in his high-backed red fabric chair.
+**The Context**: After Witya successfully wins the "Rangers Games," he is sent directly into the main office room for his interview. Witya enters the space, looks back toward the closed doors, and sits down on the tiny white chair. Captain Unlas sits opposite him, leaning back in his high-backed red fabric chair.
 
 * **Unlas:** "Congrats, potential cadet. Now, tell me... What is your lineage? What academy did you graduate from? And, most importantly... what is your budget for membership dues?"
 
@@ -1984,9 +1984,9 @@ The boss blueprint features two distinct, alternating movement states managed by
 
  * **Sara: (Checking her data-pad)** "By the way, some rather telemetry just popped up regarding his vessel. His propulsion systems are two prototypes for ultra-fast atmospheric acceleration. Accompanied by a military-grade scanning radar."
 
- * **Timida: (Snaps her head toward Witya, eyes wide, maintaining a strict academic and disciplined tone)** "Incredible... So, you are the un-authorized operative who dismantled my transport while I was taking a brief on Meltin?"
+ * **Timida: (Snaps her head toward Witya, eyes wide, maintaining a strict academic and disciplined tone)** "Incredible... So, you are the one who dismantled my transport while I was taking a brief on Meltin?"
 
-* **Witya:** "Why me? Am I the only mechanic in the entire Meltin’s undercity?"
+* **Witya:** "Why me? Am I the only mechanic in the entire local slums?"
 
 * **Sara:** "Sure. Except you forgot to erase the serial numbers."
 
@@ -2012,7 +2012,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * **Witya:** "Great. And where is an unemployed mechanic from Meltin supposed to get 50,000 bolts?"
 
-* **Timida:** "A self-built vessel... A mechanic? Actually, a skilled technician is precisely what we currently need."
+* **Timida:** "A self-built vessel... A mechanic? Actually, we do need a qualified technician.
 
 * **Unlas:** "Fine. We'll organize the paperwork. We actually need a janitor and a repairman anyway—just to make sure our weapons don't jam during public matinees and look shiny at the parades!"
 
@@ -2028,12 +2028,12 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 * **Katya:** "More than that, Captain Unlas! We... I need your assistance! Who else but you can stop Quand Industries?!"
 
-* **System Camera Pass:** _[Extreme close-up on Unlas's face. His heroic expression instantly drops into_ _panic]._
+* **System Camera Pass:** _[Extreme close-up on Unlas's face. His heroic expression instantly drops into panic]._
 
 * **Unlas:** "You know what? I changed my mind."
 * **Timida:** "What?"
 
-* **Unlas:** _(Turning toward Timida)_ "We will find ourselves a different gunsmith. Someone with actual legal documentation and zero criminal history."
+* **Unlas:** _(Turning toward Timida)_ "We'll find ourselves a different gunsmith. Someone with legal documents and no criminal record."
 
 * **System Animation Override:** _[Unlas leans forward and forcefully grabs the brown Telephone unit once again]._
 
@@ -2102,13 +2102,13 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 - 🌌 **Enemy Atmospheric Entry**
 
-**Visual Sequence**: The camera shifts to a wide, cosmic skybox angle. Witya’s scrap starship drifts away from Ceroscan. Suddenly, space distorts and four **Quand Industries** corvettes emerge from hyperspace right in front of the camera.
+**Visual Sequence**: The camera shifts to a wide, cosmic skybox angle. Witya’s scrap starship drifts away from Ceroscan. Suddenly, space distorts and four **Grable** corvettes emerge from hyperspace right in front of the camera.
 
 **Technical Spec**: Each warship features a prominent forward-facing **Needle Drive Coil** (Катушка привода «Игла») on its nose cone. Upon completing their decelerating warp jump, the coils retract into the main hull armor, preparing the fleet for atmospheric entry.
 
-**Katya** (Optical lens zooming and clicking in alarm): Witty... Those are combat vessels.  
+**Katya** (Optical lens zooming and clicking in alarm): Witty... Those are military starships 
 **Witya**: Kate, look, just call me Witya then, or whatever... And... what do we care if those vessels are military?  
-**Katya** (Mandible plates tensing as she drops her "Witty" nickname): Fine. Witya. We care because this is an active invasion, not a standard docking arrival!
+**Katya:** "Fine. Witya. It makes a difference to us because this is a full-scale military invasion, not a routine dock arrival!"
 
 - 🚀 **The Media-Driven Motivation Override**
 
@@ -2342,8 +2342,7 @@ The boss blueprint features two distinct, alternating movement states managed by
 
 Witya reaches into pocket, retrieving the flat, glowing neon-blue card (The Sector Pass). Without turning his head, he extends his right hand backward over his shoulder:
 
-**Witya**: Do me a favor and hold onto this inside you, just so it doesn't drop out of my pocket during a fight.
-
+**Witya**: "Do me a favor—keep it inside your slot for now. Just so it doesn't accidentally fly out of my pocket during the next mess."
 - 📼 **The Cassette Deck opening**
 
 **Visual Sequence**: Katya reaches forward and takes the pass. Her central display smoothly flips outward and down at a 45-degree angle, transforming into an authentic **cassette player**.
@@ -2354,8 +2353,8 @@ Katya inserts the flat card smoothly inside the internal slot. The screen door s
 
 **Visual Sequence**: Witya begins walking toward the main facility gate threshold. Suddenly, Katya’s optical lenses zoom and contract, and her speaker emits a low-amplitude radio static interference overlay, synced to the internal frequency of the Tonata Rangers encryption system:
 
-**Katya**: It appears this access card unlocks more than doorways. I am intercepting the Tonata Rangers' internal radio transmission.  
-**Witya** (Ears perking up, clicking his gloves): Excellent. Put it on speaker.
+**Katya**: Apparently, this card unlocks more than just doors. I am intercepting the Tonata Rangers' internal radio transmission.  
+**Witya:** _(Pricking up his leaf-ears and snapping his gloves enthusiastically)_: Excellent. Put it on speaker.
 
 ---
 
@@ -2602,7 +2601,7 @@ The database divides all eight display windows within the weapon upgrade layout 
 
 ### 🔊 INTERACTIVE TUTORIAL: THE STEP-BY-STEP FLOW
 
-- 📋 **First-Contact Interface Training Loop**
+- 📋 **First-Contact Interface Training**
 
 Upon triggering the active interaction node with the shop terminal, the store menu screen opens. The system instantly locks all exit controls, forcing the **Gismotron Assistant** to play sequential instructional voice lines synchronized with required player actions immediately after the vendor's welcome line:
 
