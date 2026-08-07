@@ -41,3 +41,7 @@ You are fully permitted to create your own commercial or non-commercial games, l
 
 8. ⚙️ MATERIAL SHARING REQUIREMENT (SA): You may freely utilize the open technical features (Bolt Gyrate logic, oil sheen shaders, vacuum physics), but your modifications to these specific systems must remain open to the community under the same ShareAlike conditions.
 
+9. ⚛️ THE NON-RADIOACTIVE PHYSICS MANDATE (STRICT ENVIRONMENTAL LAW):
+   Any created dimension or third-party content must strictly adhere to the universal physical laws established by the Chords and the NSIR supercomputer. 
+   - 🚫 Absolute Prohibition of Radiation: The concept of radioactive atomic decay does not exist within the multiverse. Atoms must possess absolute structural stability; radioactive isotopes and nuclear fallout are fundamentally impossible by design.
+   - 📖 Mandatory Lore & Physics Alignment: External developers and co-authors are strongly required to thoroughly study and maintain the established custom physical rules of the M&K universe before drafting any mechanics or environment layouts. 
