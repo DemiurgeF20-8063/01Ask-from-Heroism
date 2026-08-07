@@ -11,7 +11,7 @@ You are fully permitted to create your own commercial or non-commercial games, l
 1. 🔗 METADATA ATTRIBUTION LINK: Your creative work must be officially positioned as "One of the dimensions of the Mechanic & Kit multiverse." A direct hyperlink to the Author's official GitHub profile is strictly mandatory in the root description of your project.
 
 2. ⚛️ THE NON-RADIOACTIVE PHYSICS MANDATE (STRICT ENVIRONMENTAL LAW):
-   Any created dimension or third-party content must strictly adhere to the universal physical laws established by the Chords and the NSIR supercomputer. 
+   Any created dimension or third-party content must strictly adhere to the universal physical laws established by the Chords and the ISORI supercomputer. 
    - 🚫 Absolute Prohibition of Radiation: The concept of radioactive atomic decay does not exist within the multiverse. Atoms must possess absolute structural stability; radioactive isotopes and nuclear fallout are fundamentally impossible by design.
    - 📖 Mandatory Lore & Physics Alignment: External developers and co-authors are strongly required to thoroughly study and maintain the established custom physical rules of the M&K universe before drafting any mechanics or environment layouts.
 
