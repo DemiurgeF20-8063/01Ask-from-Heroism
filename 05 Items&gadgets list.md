@@ -1,5 +1,5 @@
 # Items&gadgets list
-[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+[[README]]
 
 # Aqua-Thrusters
 
@@ -19,6 +19,24 @@
 
 ---
 
+# Haufitum
+
+***Comments***: Häufig - Common, abundant. A basic, commonly found structural metal (scrap). It has high magnetic permeability and a stable crystal lattice, making it an ideal consumable for smelting simple parts, hulls for small ships, and stabilization coils. It is readily available in most inhabited sectors and is often recycled as uncleaned infrastructure debris.
+
+---
+
+# Nirgenium
+
+***Comments***: Derived from the word Nirgends which means “nowhere”. This is an extremely rare substance of immense value due to its energy potential. It is capable of storing a massive number of electrons, making it a highly sought-after raw material for the production of batteries and capacitors. The crystal itself possesses a permanent electromagnetic field.
+
+---
+
+# Resonant Charoite
+
+***Comments***: A component for D.Y.N.O. that Witya comes for on Snapped Harmony. A pre-universal metamaterial that emits a subquantum coherent melody capable of influencing the vibrations of quantum strings. It can create matter from nothing, but it has not yet been harnessed at this level, making it most commonly used as a power source for devices of various sizes.
+
+---
+
 # Hoverskate
 
 ***Comments***: I would like to avoid IP taxation, but I am afraid that someone else might privatize it and prohibit me from using it.
@@ -28,6 +46,24 @@
 # Hydroswaper
 
 ***Comments***: A device for pouring water from an empty vessel.
+
+---
+
+# Bolt Gyrate
+
+***Comments***: An improvised handle for activating mechanisms, designed for use by special engineering crews using specialized wrenches. Civilians are strictly forbidden from possessing such wrenches.
+
+---
+
+# Brats’s Card
+
+***Comments***: A small, blue-glowing card that contains a license to purchase weapons, as well as a high level of access that allows you to open any door.
+
+---
+
+# Newbie’s card
+
+***Comments***: A small, blue-glowing card that contains a license to purchase weapons but does not have the high-level access that allows you to open any door.
 
 ---
 
@@ -51,7 +87,7 @@
 
 # P.A.R.I.S.
 
-***Comments***: Pilot’s Assisting Robotic Ignition System. Not shown as an item but mentioned.
+***Comments***: Pilot’s Assisting Robotic Ignition System.
 
 ---
 
@@ -93,7 +129,7 @@
 
 # Unbinil Bolt
 
-***Comments***: A rare, collectible item.
+***Comments***: A rare, collectible item. Used to open cheats and game modes.
 
 ---
 CC-BY-SA 4.0 + Custom IP Restrictions
