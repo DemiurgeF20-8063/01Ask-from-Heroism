@@ -974,7 +974,7 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 - 🗣 **The Assistant Instructional Commentary:**  
     Concurrently with the shop screen fade-in animation, the Gismotron Assistant plays an  voice track to instruct the player on store mechanics:
 
-**Gismotron Assistant:** The available items list is displayed on the left panel, with a dynamic preview on the right. At this point in the game, your clearance level allows only the purchase of Versagel—a specialized quantum bio-gel formulated to regenerate organic tissue lacerations and repair armor plates with maximum structural efficiency. To complete a purchase, move the cursor over the item row and select confirmation.
+**Gismotron Assistant:** The available items list is displayed on the left panel, with a dynamic preview on the right. At this point in the game, your clearance level allows only the purchase of Quantogel—a specialized quantum bio-gel formulated to regenerate organic tissue lacerations and repair armor plates with maximum structural efficiency. To complete a purchase, move the cursor over the item row and select confirmation.
 
 ---
 
@@ -983,9 +983,9 @@ And these bolts will indeed be deducted from the shared wallet. In future, such 
 - 🖥️ **Full-Screen Viewport Blur Anchor:** Upon registering a successful player interaction input event with the terminal, the UI manager displays the `W_Terminal_Shop_Canvas` container widget directly on the screen overlay layer. Gaussian Blur filter (intensity set to 4.5) smoothly softens the active level scene beneath to focus 100% of the player's attention directly onto the store interface.
 
 - 📦 **Three-Panel Asymmetric Screen Layout:** The screen canvas layout enforces a rigid three-zone horizontal partition split by solid 3-pixel-wide amber line:
-    - **The Left Shop List (20% Screen Width Scale):** Dedicated exclusively to the `Vertical_Item_Scroll_Box`. This widget renders the purchase row cards. At the start stage, only one line is available: Replenish Health / Versagel Acquisition.
+    - **The Left Shop List (20% Screen Width Scale):** Dedicated exclusively to the `Vertical_Item_Scroll_Box`. This widget renders the purchase row cards. At the start stage, only one line is available: Replenish Health / Quantogel Acquisition.
     - 📺 **The Center Display Window (60% Screen Width)**: A large central area using a `UI_Render_Target` viewport. This section dynamically displays content based on the highlighted item. There is no empty state: upon opening the menu, the Versagel health restoration option (and later, health + ammo refill) is selected by default.
-	    - **Versagel Default State**: Since Versagel is a utility quantum gel coating for healing, it does not feature an animated commercial. When highlighted, the window simply displays its static item icon.
+	    - **Quantogel Default State**: Since Quantogel is a utility quantum gel coating for healing, it does not feature an animated commercial. When highlighted, the window simply displays its static item icon.
 	    - **Weapon Advertisements**: When you move the cursor over the card of any available weapon, the gel icon disappears, and instead a 3D advertisement for that item starts in the window.
     - **The Right Weapon Inventory (20% Screen Width Scale):** Reserved for displaying Witya's currently owned weapons. For this initial tutorial phase, this entire column is permanently locked.
 
