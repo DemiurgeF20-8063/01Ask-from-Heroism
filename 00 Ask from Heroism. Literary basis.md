@@ -220,15 +220,15 @@ If the player ignores the recommendation, this phrase will repeat every single t
 
 **To interact with the terminal, the player must approach within 1.5 meters and press the interaction button.** As soon as the terminal interface opens, the **Gismotron Assistant** will continue the tutorial:
 
-💬 **Gismotron Assistant:** "The list of available goods is displayed on the left panel, while a dynamic demonstration of how they function is shown on the right. Your access level currently grants purchase clearance only for **Versagel**—a specialized quantum bio-gel engineered for the regeneration of organic tissues and rapid structural recovery of damaged armor plates. To make a purchase, hover the cursor over the desired line and confirm your selection."
+💬 **Gismotron Assistant:** "The list of available goods is displayed on the left panel, while a dynamic demonstration of how they function is shown on the right. Your access level currently grants purchase clearance only for **Quantogel**—a specialized quantum bio-gel engineered for the regeneration of organic tissues and rapid structural recovery of damaged armor plates. To make a purchase, hover the cursor over the desired line and confirm your selection."
 
 In fact, even if the player completed the mission without taking any damage, the health replenishment button will remain active, and pressing it will successfully complete the tutorial block.
 
 As soon as the player presses the interaction button, the terminal interface opens in front of them, and the background shifts into a blur.
 
-**The left shop panel occupies 20% of the screen and is designated exclusively for the item list.** This widget displays the item cards for the ammunition available for purchase. At this stage, only one line is available: _Health Replenishment / Purchase of Versagel.
+**The left shop panel occupies 20% of the screen and is designated exclusively for the item list.** This widget displays the item cards for the ammunition available for purchase. At this stage, only one line is available: _Health Replenishment / Purchase of Quantogel.
 
-The large central area occupies 60% of the screen and is used to display visuals. This screen is never empty, because upon interacting with the terminal, the line to purchase Versagel is selected by default. Versagel does not have its own advertisement; therefore, when it is selected, only the item icon is shown. In the future, weapons available for purchase at this terminal will be located below Versagel. When the cursor is hovered over the card of any available weapon, the gel icon disappears, and a 3D promotional video for that item launches in the window instead.
+The large central area occupies 60% of the screen and is used to display visuals. This screen is never empty, because upon interacting with the terminal, the line to purchase Quantogel is selected by default. Quantogel does not have its own advertisement; therefore, when it is selected, only the item icon is shown. In the future, weapons available for purchase at this terminal will be located below Versagel. When the cursor is hovered over the card of any available weapon, the gel icon disappears, and a 3D promotional video for that item launches in the window instead.
 
 The right panel is reserved for displaying the weapons Witya already owns. At this stage of the initial tutorial, this entire column is completely locked.
 
