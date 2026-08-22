@@ -73,9 +73,9 @@
 
 ---
 
-# Laryngoguise
+# Bioguise
 
-***Comments***: A headset-like device that attaches to the back of the head, cheeks, or throat allows the wearer to disguise themselves as other species. It deceives cameras, thermal imagers, and even advanced biosignature scanners.
+***Comments***: A headset-like device that attaches to the back of the head, cheeks, or throat and allows the wearer to disguise themselves as other species. It deceives cameras, thermal imagers, and even advanced biosignature scanners.
 
 ---
 
