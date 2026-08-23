@@ -67,7 +67,7 @@
 
 ---
 
-# Lapsepasser
+# lockpasser
 
 ***Comments***: A device that allows one to pick locks to open passages with private access.
 
