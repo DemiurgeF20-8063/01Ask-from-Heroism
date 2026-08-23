@@ -228,7 +228,7 @@ As soon as the player presses the interaction button, the terminal interface ope
 
 **The left shop panel occupies 20% of the screen and is designated exclusively for the item list.** This widget displays the item cards for the ammunition available for purchase. At this stage, only one line is available: _Health Replenishment / Purchase of Quantogel.
 
-The large central area occupies 60% of the screen and is used to display visuals. This screen is never empty, because upon interacting with the terminal, the line to purchase Quantogel is selected by default. Quantogel does not have its own advertisement; therefore, when it is selected, only the item icon is shown. In the future, weapons available for purchase at this terminal will be located below Versagel. When the cursor is hovered over the card of any available weapon, the gel icon disappears, and a 3D promotional video for that item launches in the window instead.
+The large central area occupies 60% of the screen and is used to display visuals. This screen is never empty, because upon interacting with the terminal, the line to purchase Quantogel is selected by default. Quantogel does not have its own advertisement; therefore, when it is selected, only the item icon is shown. In the future, weapons available for purchase at this terminal will be located below Quantogel. When the cursor is hovered over the card of any available weapon, the gel icon disappears, and a 3D promotional video for that item launches in the window instead.
 
 The right panel is reserved for displaying the weapons Witya already owns. At this stage of the initial tutorial, this entire column is completely locked.
 
@@ -671,7 +671,7 @@ On **Low difficulty**, the train departure countdown timer is completely disable
 
 On **High difficulty**, the train departure countdown operates extremely aggressively. From the very first seconds, Witya is forced to sprint at maximum velocity just to catch the last car of the moving train. Because of this, during the initial playthrough, it is physically impossible to deviate from the path and turn toward the Warehouse gates.
 
-Since Brats Weales's keycard will be confiscated from Witya upon completing this mission and replaced with a rookie card lacking such clearance, opening the gates upon returning to the location will not be so simple. To hack the lock, Witya will need **The Lapsepasser**.
+Since Brats Weales's keycard will be confiscated from Witya upon completing this mission and replaced with a rookie card lacking such clearance, opening the gates upon returning to the location will not be so simple. To hack the lock, Witya will need **The Lockpasser**.
 
 ---
 ### The remainder of this document is currently under development. Its development is not a high priority, as the author is currently actively engaged in publishing and copyrighting materials created over 15 years of active creative work. The document then presents dialogue and cutscenes that will occur during the storyline.
@@ -919,3 +919,74 @@ From the lower edge of the frame, Tikhon’s hand reaches upward.
 
 ---
 
+Quand panics and dashes toward the exit doors. Before he can even reach the threshold, a high-velocity plasma projectile overtakes him, instantly welding the heavy metallic doors shut.
+
+Quand falls from his hover-scooter. He crawls backward on his spine, awkwardly stretching his legs out in sheer terror, pressing himself against the newly welded wall. The massive, sharp shadow of Witya, holding the silhouette of a gigantic heavy firearm, slowly eclipses his body.
+
+💬 **Quand:** "Everything has its price, right? W-w-what is yours?"
+
+💬 **Witya:** _(Gesturing with his blaster)_: "Yeah, yeah. Houses... lives... souls. Everything. Move it. I'll let you pay."
+
+**Quand swallows heavily. He obediently crawls back onto his hover-scooter.**
+
+The camera switches to the interior layout of the command bridge. The heavy automatic doors slide open. Several **Grable technicians** stand near the control terminals. Quand rides into the compartment on his scooter. Witya follows directly behind him, aiming a compact one-handed pistol at his back.
+
+Through the panoramic window, the starship **Bennu 1** is clearly visible. Witya does not notice its presence.
+
+💬**Witya**: Aim the Acatadop at Wealth Refussi and commence deplanetation!
+💬**Quand:** I won't!
+💬**Witya:** Aim it.
+💬**Quand:** And what are you gonna do, kill me, huh?
+
+Witya holsters his heavy blaster and equips the Sheepmorpher.
+
+💬**Witya:** No. You’re going to enjoy hay and barn.
+💬**Katya:** He won't. He... will keep his sanity.
+💬**Witya:** Even better. That means you will definitely press that button. What's my price.
+
+Quand turns away abruptly, breaking eye contact with Witya, and barks towards the control terminal.
+
+💬**Quand:** Prepare for Deplanetation!
+💬**Katya:** Maybe... maybe we should just keep this Frankenplanet? We could use it to... relocate those whom he displaced.
+💬**Witya:** Yeah. And blow up Meltin and several other planets just to fit it into orbit like he wanted?
+
+**A massive red button rises from the main control console.** Quand opens the protective glass cover but hesitates before pressing it. The camera cuts to a close-up, focusing entirely on the button. Suddenly, a voice rings out from the threshold: "I command you to stop!"
+
+The heavy automatic doors of the command bridge slide open. Standing past the threshold are two **Tonata Ranger** robots featuring an **alternative skin**. Standing right between them is **Sveta Bennux**. The robots advance forward, raising their blaster barrels and aiming directly at the heroes.
+
+Witya and Quand instantly spin around, raising their hands in a gesture of submission.
+
+**💬Sveta:** Witya, you can lower yours. We aren't aiming at you.
+**💬Sveta:** Wealth Refussi is now the property of the Tonata Rangers and the Social Fund of the Tonata Government.
+
+**As Sveta and the guard robots approach the console, Captain Unlas appears in the background, walking down the corridor escorted by four Ranger robots.** Unlas is clearly bored. He carelessly raises his interlocked hands to his jaw to let out a wide yawn, completely failing to notice how this simple muscle reflex snaps the steel links of his handcuff chains. He keeps walking, showing absolutely no reaction to the breakage.
+
+The surrounding robots instantly scatter away from Unlas, tracking his movements and aiming their blaster barrels.
+
+💬 **Captain Unlas:** _(Raising his hands)_: "I didn't mean to! Honestly!"
+
+**As Sveta draws closer, right before Unlas's line, Witya delivers the following phrase:**
+
+💬 **Witya:** "Social... fund?"
+
+**Sveta continues her way toward the central section of the bridge.**
+
+💬 **Sveta:** Yes. We will relocate Wealth Refussi to another star system and settle everyone you displaced. For free.
+
+💬 **Quand:** "For free?"
+
+**Instantly reacting to this statement, Quand's capitalistic logic collapses.** In the blink of an eye, he makes a desperate dash and aggressively slams his hand down on the large red button.
+
+**One of the Tonata Ranger robots instantly fires a shot.** The energy projectile slams into Quand. Quand collapses onto the deck, slipping into a semi-conscious state. He stares at the floor, furiously shaking his head.
+
+Witya turns away from the bridge crew, completely shifting his gaze to the panoramic observation window. He watches as the **Refussi of Well-being** shatters into splinters. The camera captures a full-scale cosmic apocalypse unfolding just outside the hull.
+
+💬 **Witya:** "I'm sorry. This is my fault. I brought him here at gunpoint..."
+
+**Sveta steps up beside Witya, placing her hand on his shoulder. Sveta and Witya establish mutual eye contact.**
+
+💬 **Sveta:** "It is not your fault... You... You couldn't have known. Even I don't completely... It's okay to love your home. It's normal.
+
+By this frame, the Ranger robots have already closed the distance and proceeded to arrest Quand.
+
+💬 **Witya (Looking back at the destruction of Wealth Refussi):** But I never loved it! I always dreamed of escaping it!
