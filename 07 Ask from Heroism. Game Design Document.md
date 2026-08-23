@@ -2695,7 +2695,7 @@ _"Attention all passengers. Due to the active invasion, trains may be swarmed by
 
 - **Higher Difficulty Sequence (The Time-Attack Block)**: The train departure countdown loop is highly aggressive. Witya is forced into an immediate high-speed sprint to catch the last train car, making it physically impossible to detour toward the locked Warehouse gate during the initial run.
 
-- **The Backtracking Rule (The Ranger License Stripping)**: Upon completing the main story chapter and returning later to the Ceroscan Station for cleanup exploration, a narrative script updates Witya's items. Brats's blue card has been permanently removed from the inventory. In its place, the system gives Witya his personal Rookie ID Card, which lacks administrative access. To bypass the lock and claim the Nirgenium shard on higher difficulties, the player must return later and use a specialized illegal hacking gadget—The **Lapsepasser** (Посягатель)—to bypass the lock.
+- **The Backtracking Rule (The Ranger License Stripping)**: Upon completing the main story chapter and returning later to the Ceroscan Station for cleanup exploration, a narrative script updates Witya's items. Brats's blue card has been permanently removed from the inventory. In its place, the system gives Witya his personal Rookie ID Card, which lacks administrative access. To bypass the lock and claim the Nirgenium shard on higher difficulties, the player must return later and use a specialized illegal hacking gadget—The **Lockpasser** (Посягатель)—to bypass the lock.
 
 ---
 
