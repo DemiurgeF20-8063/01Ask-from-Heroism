@@ -874,5 +874,25 @@
 ***Damage type***: Laser
 ***Comments***: LCVP-84 Hovercraft reskin. As drop spawns from 15 to 25 Sharpsphere, 5 to 8 Walker Mine, 2 to 4 Warbot Srormer, 2 - 3 Warbot Knocker, 1-2 Warbot Missiler,  2 Warbot Targeter, 1 Warbot Redirecter. After dropping, it becomes < empty state >, leaves the visible frame, and stops rendering.
 
+# C.U.L.S.D Mech
+
+***Mission***: 25 Gut the Acatadop
+***Location***: Acatadop
+***Weight***: BOSS
+***Type***: Various
+***Damage type***: Bullet, Explosive, Laser, Missile, Physical, Termal
+***Comments***: Chairman's Ultra-Luxurious Self-Defence Mech
+
+---
+
+# Captain Unlas
+
+***Mission***: 25 Gut the Acatadop
+***Location***: Acatadop
+***Weight***: BOSS
+***Type***: Various
+***Damage type***: Acid, Bullet, Explosive, Laser, Missile, Projectile reflection, Termal
+***Comments***: Receives healing and increases attacks if attacked by D.Y.N.O., as it "absorbs" green color.
+
 ---
 CC-BY-SA 4.0 + Custom IP Restrictions
