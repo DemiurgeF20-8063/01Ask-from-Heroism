@@ -212,8 +212,6 @@ From the elbow joint down to the fingertips, the arm layout integrates a heavy-d
 
 - 👖 **The Loose Pants & Jumping Leg Mechanics**: Witya’s lower limbs and skeletal joints are engineered specifically for high-velocity jumping mechanics unique to the Fustix species. He wears loose, blue pants that completely cover his thighs. The trousers feature tight elastic bands at both the waist and the ankles to prevent the fabric from catching on environment hazards during rapid platforming sprints.
 
-- 🦿 **The Tactical Knee-Pad Protection**: Mounted directly over both knee joints are tactical knee guards. The protective gear features oval-shaped, matte charcoal-black impact plates held in place by thick elastic straps, buffering Witya's knees during rapid slides or heavy landings.
-
 - 🦶 **The Standard Barefoot Fustix Anatomy (Обувь отсутствует)**: Witya moves exclusively barefoot. The scale of his lower paws follows balanced, natural proportions: the size of the foot relative to the leg thickness mirrors standard human body ratios. The foot is covered in a short ash-grey fur base and ends in exactly **five solid claw-toes** (пальцы-коготки) that function directly as his digits.
 
 - 🧼 **The Ninth Game Continuity Constraint:** The player is strictly restricted from viewing the character's leg meshes without the pant applied until **Game 9**. This lock explicitly protects the comedic sequence featuring Jord Solis inside the commercial sauna layout on Siren's Socket Station, where the gag unfolds that _"picking up the soap is forbidden"_.
