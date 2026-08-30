@@ -4,7 +4,7 @@
 
 ---
 
-#### **This document is a narrative-focused work** that served as the foundation for the original GDD. While this text is regularly updated, human error means some changes might not carry over to other development files. This narrative piece holds a central, foundational role in the documentation hierarchy for the game **"Ask from Heroism" (HoS)**. In the event of any discrepancies, the information in this document takes priority over all other files.
+#### **This document is a narrative-focused work** that served as the foundation for the original GDD. While this text is regularly updated, human error means some changes might not carry over to other development files. This narrative piece holds a central, foundational role in the documentation hierarchy for the game **"Ask from Heroism" (AfH)**. In the event of any discrepancies, the information in this document takes priority over all other files.
 
 ---
 
