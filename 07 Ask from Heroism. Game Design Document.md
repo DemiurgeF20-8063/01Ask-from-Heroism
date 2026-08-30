@@ -216,12 +216,6 @@ From the elbow joint down to the fingertips, the arm layout integrates a heavy-d
 
 - 🦶 **The Standard Barefoot Fustix Anatomy (Обувь отсутствует)**: Witya moves exclusively barefoot. The scale of his lower paws follows balanced, natural proportions: the size of the foot relative to the leg thickness mirrors standard human body ratios. The foot is covered in a short ash-grey fur base and ends in exactly **five solid claw-toes** (пальцы-коготки) that function directly as his digits.
 
-The asymmetric digit alignment follows strict visual rules:
-
-- - **The Deep Recessed Pinky Claw (Мизинец)**: The outermost pinky claw-toe features a deep, recessed structural socket placement, sitting far back along a smooth curved skin notch.
-- **The Angled Big Toe Deflection (Большой палец)**: The outermost big toe claw-toe features a sharp horizontal angular tilt, deflecting noticeably outward away from the foot centerline to widen the step stability.
-- **The Heel and Friction Pads**: The underside integrates thick, rubbery digital friction pads that completely absorb shock from maximum-height falls, preventing slipping on wet metallic surfaces.
-
 - 🧼 **The Ninth Game Continuity Constraint:** The player is strictly restricted from viewing the character's leg meshes without the pant applied until **Game 9**. This lock explicitly protects the comedic sequence featuring Jord Solis inside the commercial sauna layout on Siren's Socket Station, where the gag unfolds that _"picking up the soap is forbidden"_.
 
 ---
