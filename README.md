@@ -49,7 +49,7 @@ These specific anatomical branches constitute the unique canon of the core dimen
 **📐 THE GEOMETRIC FORM MANDATE & HEXAGON BAN (STRICT STRUCTURAL LAW):**
 The geometry of the core multiverse is directly tied to its physical and metaphysical stability. 
 - Absolute Prohibition of Hexagons (Hexagon Ban): The use or depiction of hexagonal (six-sided) shapes, patterns, or structures is strictly prohibited across all regular dimensions and sectors belonging to the Core Canon.
-- The Nether Anomaly Exception: The hexagonal geometry is an exclusive, sovereign anatomical property of the Nether dimension. Any unauthorized appearance of a hexagon outside of the Nether is treated as a severe narrative and structural violation that destroys the core geometric premise of the IP.
+- The Nether Anomaly Exception: The hexagonal geometry is an exclusive, sovereign anatomical property of the Nether dimensions. Any unauthorized appearance of a hexagon outside of the Nether is treated as a severe narrative and structural violation that destroys the core geometric premise of the IP.
 - Triangular Component Standard: All mechanical fasteners, hardware, and engineering elements belonging to the core factions must follow the triangular standard (e.g., Witya Peros' specialized triangular-headed bolts).
 
 **🦊 EXCEPTION FOR THE FLUFFY SUB-CLASS (Fustix Fluffy):** 
