@@ -323,7 +323,7 @@ Witya: "I definitely don't have time for another hacking attempt..."
 
 - 📝 **The Systemic Definition:** The operational designation HICA is officially registered as High Integrated Combat Adaptation.
 
-- ⏳ **The Historical Benchmark:** This military-grade bio-chemical serum was invented by Fustix - Fluffy. That Serum allowed the Fustix - Tufted to achieve definitive strategic victory and neutralize the Shrampite forces during the first Great War. Following the conflict, the blueprint was permanently lost.
+- ⏳ **The Historical Benchmark:** This military-grade bio-chemical serum was invented by Fustix - Fluffy. That Serum allowed the Fustix - Tufted to achieve definitive strategic victory and neutralize the Shrampite forces during the Shrampit Concista. Following the conflict, the blueprint was permanently lost.
 
 ---
 
